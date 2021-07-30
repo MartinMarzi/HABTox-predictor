@@ -2,5 +2,5 @@ jupyterlab
 pandas
 sklearn
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
