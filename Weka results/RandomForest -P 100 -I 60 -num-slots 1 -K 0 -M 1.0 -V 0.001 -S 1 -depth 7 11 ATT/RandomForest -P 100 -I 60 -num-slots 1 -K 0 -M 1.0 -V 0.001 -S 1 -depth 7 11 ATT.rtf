@@ -1,0 +1,77 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 === Run information ===\
+\
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -attribute-importance -I 60 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1 -depth 7\
+Relation:     HAB_1_0-weka.filters.unsupervised.attribute.Remove-R3-4-weka.filters.unsupervised.attribute.Remove-R2\
+Instances:    1323\
+Attributes:   11\
+              date\
+              PSP\
+              DSP\
+              DSP_like\
+              ASP\
+              Dinophysis caudata\
+              Dinophysis fortii\
+              Phalacroma rotundatum\
+              Dinophysis sacculus\
+              Dinophysis tripos\
+              lipophylic_toxins\
+Test mode:    10-fold cross-validation\
+\
+=== Classifier model (full training set) ===\
+\
+RandomForest\
+\
+Bagging with 60 iterations and base learner\
+\
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -depth 7 -do-not-check-capabilities\
+\
+Attribute importance based on average impurity decrease (and number of nodes using that attribute)\
+\
+      0.81 (   280)  PSP\
+      0.79 (   117)  DSP_like\
+      0.72 (   211)  DSP\
+      0.66 (   114)  ASP\
+      0.6  (    59)  Dinophysis caudata\
+      0.53 (   174)  date\
+      0.44 (    50)  Phalacroma rotundatum\
+      0.4  (    41)  Dinophysis sacculus\
+      0.35 (    47)  Dinophysis fortii\
+      0.13 (    14)  Dinophysis tripos\
+\
+\
+Time taken to build model: 0.1 seconds\
+\
+=== Stratified cross-validation ===\
+=== Summary ===\
+\
+Correctly Classified Instances         999               93.0168 %\
+Incorrectly Classified Instances        75                6.9832 %\
+Kappa statistic                          0.6136\
+Mean absolute error                      0.1113\
+Root mean squared error                  0.2239\
+Relative absolute error                 53.577  %\
+Root relative squared error             69.5715 %\
+Total Number of Instances             1074     \
+Ignored Class Unknown Instances                249     \
+\
+=== Detailed Accuracy By Class ===\
+\
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class\
+                 0.556    0.020    0.787      0.556    0.651      0.625    0.919     0.703     poz\
+                 0.980    0.444    0.943      0.980    0.961      0.625    0.863     0.935     neg\
+Weighted Avg.    0.930    0.395    0.925      0.930    0.925      0.625    0.869     0.908     \
+\
+=== Confusion Matrix ===\
+\
+   a   b   <-- classified as\
+  70  56 |   a = poz\
+  19 929 |   b = neg\
+\
+}
