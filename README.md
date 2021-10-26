@@ -1,2 +1,2 @@
-# toxic_microalgae
-Project modelling the toxicity of seashells due to harmful algae blooms.
+# hab
+Project modelling harmful algae bloom and toxicity accumulation in seashells.
