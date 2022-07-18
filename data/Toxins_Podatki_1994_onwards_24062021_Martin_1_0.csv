@@ -1,1374 +1,1374 @@
 date;sampling station;lipophylic toxins;lipophylic toxins (OA (µg/kg));lipophylic toxins (DTX2 (µg/kg));PSP toxins;ASP toxins;yessotoxins;ban start;ban stop;data source
-1989-09-15;35;poz;;;;;;;;Sedmak in sod., 1990
-1989-09-15;24;poz;;;;;;;;Sedmak in sod., 1990
-1989-09-25;35;;;;;;;y;;Sedmak&Obal 1998
-1989-09-25;24;;;;;;;y;;Sedmak&Obal 1998
-1989-09-25;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
-1989-12-10;35;;;;;;;;y;Sedmak in sod., 1990
-1990-01-19;24;neg;;;;;;;;Sedmak&Obal 1998
-1990-03-03;24;neg;;;;;;;y;Sedmak&Obal 1998
-1990-03-03;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
-1990-07-25;35;poz;;;;;;y;;Sedmak&Obal 1998
-1990-07-25;24;poz;;;;;;y;;Sedmak&Obal 1998
-1990-07-25;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
-1990-08-02;35;neg;;;;;;;y;Sedmak&Obal 1998
-1990-08-02;24;neg;;;;;;;y;Sedmak&Obal 1998
-1990-08-02;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
-1993-10-11;35;poz;;;;;;y;;Sedmak&Obal 1998
-1993-10-11;24;poz;;;;;;y;;Sedmak&Obal 1998
-1993-10-11;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
-1993-11-22;35;neg;;;;;;;y;Sedmak&Obal 1998
-1993-11-22;24;neg;;;;;;;y;Sedmak&Obal 1998
-1993-11-22;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
-1994-08-09;35;poz;;;;;;y;;Sedmak&Obal 1998
-1994-08-09;24;poz;;;;;;y;;Sedmak&Obal 1998
-1994-08-09;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
-1994-09-27;35;neg;;;;;;;y;Sedmak&Obal 1998
-1994-09-27;24;neg;;;;;;;y;Sedmak&Obal 1998
-1994-09-27;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
-1995-09-22;35;poz;;;;;;y;;Sedmak&Obal 1998
-1995-09-22;24;poz;;;;;;y;;Sedmak&Obal 1998
-1995-09-22;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
-1995-11-03;35;neg;;;;;;;y;Sedmak&Obal 1998
-1995-11-03;24;neg;;;;;;;y;Sedmak&Obal 1998
-1995-11-03;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
-1996-10-03;35;poz;;;;;;y;;Sedmak&Obal 1998
-1996-10-03;24;poz;;;;;;y;;Sedmak&Obal 1998
-1996-10-03;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
-1996-11-08;35;neg;;;;;;;y;Sedmak&Obal 1998
-1996-11-08;24;neg;;;;;;;y;Sedmak&Obal 1998
-1996-11-08;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
-1997-08-01;35;poz;;;;;;y;;Sedmak&Obal 1998
-1997-08-01;24;poz;;;;;;y;;Sedmak&Obal 1998
-1997-10-30;35;neg;;;;;;;y;Sedmak&Obal 1998
-1997-10-30;24;neg;;;;;;;y;Sedmak&Obal 1998
-1999-06-17;35;neg;;;neg;x;;;;Sedmak in sod., 2003
-1999-06-17;24;neg;;;neg;x;;;;Sedmak in sod., 2003
-1999-07-08;35;neg;;;neg;x;;;;Sedmak in sod., 2003
-1999-07-08;24;neg;;;neg;x;;;;Sedmak in sod., 2003
-1999-07-21;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-07-22;35;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-07-22;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-08-05;35;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-08-13;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-08-25;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-09-02;35;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-09-02;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-09-09;35;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-09-09;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-09-10;35;;;;;;;y;;Sedmak in sod., 2003
-1999-09-10;24;;;;;;;y;;Sedmak in sod., 2003
-1999-09-15;35;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-09-15;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-09-17;35;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-09-21;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-09-27;35;;;;;;;;y;Sedmak in sod., 2003
-1999-09-27;24;;;;;;;;y;Sedmak in sod., 2003
-1999-09-28;35;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-10-14;35;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-11-15;24;poz;;;x;x;;;;Sedmak in sod., 2003
-1999-11-17;35;;;;;;;y;;Sedmak in sod., 2003
-1999-11-17;24;;;;;;;y;;Sedmak in sod., 2003
-1999-11-19;35;poz;;;neg;x;;;;Sedmak in sod., 2003
-1999-12-06;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-12-13;24;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-12-14;35;neg;;;x;x;;;;Sedmak in sod., 2003
-1999-12-17;35;;;;;;;;y;Sedmak in sod., 2003
-1999-12-17;24;;;;;;;;y;Sedmak in sod., 2003
-2000-05-26;35;x;;;neg;x;;;;Sedmak in sod., 2003
-2000-05-26;24;x;;;neg;x;;;;Sedmak in sod., 2003
-2000-06-09;35;neg;;;neg;x;;;;Sedmak in sod., 2003
-2000-06-09;24;neg;;;neg;x;;;;Sedmak in sod., 2003
-2000-06-22;35;neg;;;neg;x;;;;Sedmak in sod., 2003
-2000-06-22;24;neg;;;neg;x;;;;Sedmak in sod., 2003
-2000-07-05;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-07-05;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-07-21;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-07-21;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-08-08;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-08-08;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-08-23;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-08-30;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-09-05;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-09-05;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-09-12;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-09-12;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-09-20;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-09-20;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-09-27;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-09-27;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-10-04;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-10-04;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-10-10;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-10-10;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-10-18;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-10-25;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-10-25;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-11-08;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-11-15;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-11-22;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-11-22;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-11-30;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-12-13;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-12-13;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2000-12-27;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-05-30;24;x;;;neg;x;;;;Sedmak in sod., 2003
-2001-06-06;35;neg;;;neg;x;;;;Sedmak in sod., 2003
-2001-06-13;24;x;;;neg;x;;;;Sedmak in sod., 2003
-2001-06-20;35;neg;;;neg;x;;;;Sedmak in sod., 2003
-2001-06-27;24;neg;;;neg;x;;;;Sedmak in sod., 2003
-2001-07-03;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-07-09;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-07-16;35;poz;;;x;x;;;;Sedmak in sod., 2003
-2001-07-19;35;poz;;;x;x;;y;;Sedmak in sod., 2003
-2001-07-19;24;;;;;;;y;;Sedmak in sod., 2003
-2001-07-23;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-07-23;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-07-30;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-07-30;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-08-01;35;neg;;;x;x;;;y;Sedmak in sod., 2003
-2001-08-01;24;;;;;;;;y;Sedmak in sod., 2003
-2001-08-06;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-08-06;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-08-13;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-08-13;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-08-20;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-08-20;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-08-27;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-08-27;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-09-03;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-09-03;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-09-12;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-09-17;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-09-19;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2001-09-19;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2001-09-24;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-10-01;35;neg;;;neg;x;;;;Sedmak in sod., 2003
-2001-10-01;24;neg;;;neg;x;;;;Sedmak in sod., 2003
-2001-10-08;35;neg;;;neg;x;;;;Sedmak in sod., 2003
-2001-10-08;24;neg;;;neg;x;;;;Sedmak in sod., 2003
-2001-10-15;35;neg;;;neg;x;;;;Sedmak in sod., 2003
-2001-10-15;24;neg;;;neg;x;;;;Sedmak in sod., 2003
-2001-10-22;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-10-22;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-10-26;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-10-29;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-11-06;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-11-12;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-11-19;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2001-11-26;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-05-13;35;poz;;;neg;x;;;;Sedmak in sod., 2003
-2002-05-13;24;poz;;;neg;x;;;;Sedmak in sod., 2003
-2002-05-15;35;poz;;;x;x;;y;;Sedmak in sod., 2003
-2002-05-15;24;poz;;;x;x;;y;;Sedmak in sod., 2003
-2002-05-27;35;poz;;;x;x;;;;Sedmak in sod., 2003
-2002-05-27;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-06-03;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-06-03;24;poz;;;x;x;;;;Sedmak in sod., 2003
-2002-06-10;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-06-10;24;poz;;;x;x;;;;Sedmak in sod., 2003
-2002-06-17;35;neg;;;x;x;;;y;Sedmak in sod., 2003
-2002-06-17;24;neg;;;x;x;;;y;Sedmak in sod., 2003
-2002-06-21;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-06-21;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-06-26;35;poz;;;neg;x;;;;Sedmak in sod., 2003
-2002-06-26;24;neg;;;neg;x;;;;Sedmak in sod., 2003
-2002-07-04;35;poz;;;x;x;;y;;Sedmak in sod., 2003
-2002-07-04;24;poz;;;x;x;;y;;Sedmak in sod., 2003
-2002-07-08;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-07-11;24;neg;;;x;x;;;y;Sedmak in sod., 2003
-2002-07-15;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-07-15;24;unreliable;;;x;x;;;;Sedmak in sod., 2003
-2002-07-22;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-07-22;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-07-24;35;neg;;;x;x;;;y;Sedmak in sod., 2003
-2002-07-24;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-07-31;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-08-12;35;poz;;;x;x;;;;Sedmak in sod., 2003
-2002-08-12;24;poz;;;x;x;;;;Sedmak in sod., 2003
-2002-08-14;35;poz;;;x;x;;y;;Sedmak in sod., 2003
-2002-08-14;24;poz;;;x;x;;y;;Sedmak in sod., 2003
-2002-08-19;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-08-19;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-08-26;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-08-26;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-08-28;35;neg;;;x;x;;;y;Sedmak in sod., 2003
-2002-08-28;24;neg;;;x;x;;;y;Sedmak in sod., 2003
-2002-09-02;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-09-02;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-09-10;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-09-10;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-09-16;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-09-16;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-09-24;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-09-24;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-09-30;35;poz;;;x;x;;;;Sedmak in sod., 2003
-2002-09-30;24;unreliable;;;x;x;;;;Sedmak in sod., 2003
-2002-10-02;35;poz;;;x;x;;y;;Sedmak in sod., 2003
-2002-10-02;24;poz;;;x;x;;y;;Sedmak in sod., 2003
-2002-10-07;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-10-07;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-10-09;35;neg;;;x;x;;;y;Sedmak in sod., 2003
-2002-10-09;24;neg;;;x;x;;;y;Sedmak in sod., 2003
-2002-10-14;35;neg;;;x;neg;;;;Sedmak in sod., 2003
-2002-10-14;24;neg;;;x;neg;;;;Sedmak in sod., 2003
-2002-10-21;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-10-21;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-11-04;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-11-04;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-11-18;24;neg;;;x;x;;;;Sedmak in sod., 2003
-2002-11-25;35;neg;;;x;x;;;;Sedmak in sod., 2003
-2003-06-09;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-06-10;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-06-23;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-06-23;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-07-07;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-07-07;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-07-21;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-07-23;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-08-04;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-08-05;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-08-11;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-08-11;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-08-19;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-08-19;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-08-26;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-08-26;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-09-09;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-09-09;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-09-16;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-09-16;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-09-23;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-09-23;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-10-06;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-10-14;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-10-20;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-10-21;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-10-27;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-12-01;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2003-12-02;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
-2004-05-25;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-05-27;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-06-08;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-06-21;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-06-22;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-07-05;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-07-06;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-07-19;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-07-20;24;? (no data);;;? (no data);x;;;;Veterinarska fakulteta
-2004-08-09;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-08-11;35;neg;;;x;x;;;;Veterinarska fakulteta
-2004-08-25;35;neg;;;x;x;;;;Veterinarska fakulteta
-2004-09-02;35;neg;;;x;x;;;;Veterinarska fakulteta
-2004-09-06;24;neg;;;x;x;;;;Veterinarska fakulteta
-2004-09-13;35;poz;;;x;x;;;;Veterinarska fakulteta
-2004-09-14;35;;;;;;;y;;Veterinarska fakulteta
-2004-09-16;24;neg;;;x;x;;;;Veterinarska fakulteta
-2004-09-20;24;poz;;;x;x;;;;Veterinarska fakulteta
-2004-09-21;24;;;;;;;y;;Veterinarska fakulteta
-2004-09-23;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2004-10-05;24;neg;;;x;x;;;;Veterinarska fakulteta
-2004-10-05;24;poz;;;x;x;;;;Veterinarska fakulteta
-2004-10-13;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2004-10-14;24;;;;;;;;y;Veterinarska fakulteta
-2004-10-21;35;neg;;;x;x;;;;Veterinarska fakulteta
-2004-10-26;24;poz;;;x;x;;;;Veterinarska fakulteta
-2004-10-27;24;;;;;;;y;;Veterinarska fakulteta
-2004-11-02;35;neg;;;x;x;;;;Veterinarska fakulteta
-2004-11-03;35;;;;;;;;y;Veterinarska fakulteta
-2004-11-08;24;neg;;;x;x;;;;Veterinarska fakulteta
-2004-11-12;24;neg;;;x;x;;;;Veterinarska fakulteta
-2004-11-13;24;;;;;;;;y;Veterinarska fakulteta
-2004-11-22;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-02-23;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-07-11;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2005-07-12;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2005-08-09;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-08-09;24;neg;;;x;x;;;;Veterinarska fakulteta
-2005-08-11;24;x;;;x;x;;;;Veterinarska fakulteta
-2005-08-16;35;x;;;x;x;;;;Veterinarska fakulteta
-2005-09-05;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-09-20;24;neg;;;x;x;;;;Veterinarska fakulteta
-2005-09-26;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-10-11;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-10-17;24;neg;;;x;x;;;;Veterinarska fakulteta
-2005-11-02;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-11-02;24;neg;;;x;x;;;;Veterinarska fakulteta
-2005-11-08;24;neg;;;x;x;;;;Veterinarska fakulteta
-2005-11-09;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-11-14;24;neg;;;x;x;;;;Veterinarska fakulteta
-2005-11-15;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-11-28;24;poz;;;neg;< 0,2 mg DA/kg;;y;;Veterinarska fakulteta
-2005-12-05;35;neg;;;x;x;;;;Veterinarska fakulteta
-2005-12-05;24;neg;;;x;x;;;y;Veterinarska fakulteta
-2006-05-03;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2006-05-03;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2006-05-23;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-05-23;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-06-06;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-06-06;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-06-07;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-06-19;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-06-20;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-06-20;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-07-05;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-07-05;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-07-05;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-07-12;35;neg;;;x;x;;;;Veterinarska fakulteta
-2006-07-12;24;x;;;neg;x;;;;Veterinarska fakulteta
-2006-07-12;0DB2;x;;;x;? (no data);;;;Veterinarska fakulteta
-2006-07-20;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-07-20;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-07-20;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-07-26;35;x;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-07-26;24;x;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-07-26;0DB2;x;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-08-02;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-08-02;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-08-02;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-08-09;35;poz;;;neg;0,2 mg DA/kg (neg);;;;Veterinarska fakulteta
-2006-08-09;24;poz;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-08-09;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-08-12;35;;;;;;;y;;Veterinarska fakulteta
-2006-08-12;24;;;;;;;y;;Veterinarska fakulteta
-2006-08-22;35;neg;;;x;x;;;;Veterinarska fakulteta
-2006-08-22;24;neg;;;x;x;;;;Veterinarska fakulteta
-2006-08-28;35;neg;;;x;x;;;;Veterinarska fakulteta
-2006-08-28;24;neg;;;x;x;;;;Veterinarska fakulteta
-2006-08-31;35;;;;;;;;y;Veterinarska fakulteta
-2006-08-31;24;;;;;;;;y;Veterinarska fakulteta
-2006-08-31;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2006-09-07;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-07;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-07;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-13;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-13;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-13;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-20;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-20;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-20;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-27;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2006-09-28;35;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-28;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-09-28;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-10-03;35;poz;;;neg;x;;;;Veterinarska fakulteta
-2006-10-04;35;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-10-04;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-10-04;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-10-06;35;;;;;;;y;;Veterinarska fakulteta
-2006-10-09;35;poz;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-10-09;24;poz;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-10-09;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-10-12;24;;;;;;;y;;Veterinarska fakulteta
-2006-10-19;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2006-10-25;35;neg;;;x;x;;;;Veterinarska fakulteta
-2006-10-25;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2006-10-26;24;neg;;;x;x;;;;Veterinarska fakulteta
-2006-11-02;35;neg;;;x;x;;;;Veterinarska fakulteta
-2006-11-02;24;neg;;;x;x;;;;Veterinarska fakulteta
-2006-11-06;35;;;;;;;;y;Veterinarska fakulteta
-2006-11-06;24;;;;;;;;y;Veterinarska fakulteta
-2006-11-08;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-08;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-08;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-15;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2006-11-16;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-16;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-16;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-23;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-23;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-23;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-29;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-29;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2006-11-29;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
-2007-01-22;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2007-05-09;35;poz;;;neg;neg;;;;Veterinarska fakulteta
-2007-05-09;0DB2;poz;;;neg;neg;;;;Veterinarska fakulteta
-2007-05-10;24;poz;;;neg;neg;;;;Veterinarska fakulteta
-2007-05-12;35;;;;;;;y;;Veterinarska fakulteta
-2007-05-15;24;;;;;;;y;;Veterinarska fakulteta
-2007-05-15;0DB2;;;;;;;y;;Veterinarska fakulteta
-2007-05-21;24;neg;;;x;x;;;;Veterinarska fakulteta
-2007-05-24;35;neg;;;x;x;;;;Veterinarska fakulteta
-2007-05-25;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2007-05-28;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-05-30;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-05-30;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-01;24;;;;;;;;y;Veterinarska fakulteta
-2007-06-02;35;;;;;;;;y;Veterinarska fakulteta
-2007-06-02;0DB2;;;;;;;;y;Veterinarska fakulteta
-2007-06-06;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-07;35;x;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-07;24;x;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-12;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-13;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-13;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-20;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-20;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-21;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-27;35;x;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-27;24;x;;;neg;neg;;;;Veterinarska fakulteta
-2007-06-28;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-04;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-04;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-04;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-13;35;x;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-13;24;x;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-13;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-17;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-18;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-18;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-07-25;24;x;;;x;neg;;;;Veterinarska fakulteta
-2007-07-26;35;x;;;x;neg;;;;Veterinarska fakulteta
-2007-07-31;0DB2;x;;;x;neg;;;;Veterinarska fakulteta
-2007-08-01;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-08-01;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-08-02;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-08-07;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-08-08;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-08-08;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-08-14;35;x;;;x;neg;;;;Veterinarska fakulteta
-2007-08-14;24;x;;;x;neg;;;;Veterinarska fakulteta
-2007-08-14;0DB2;x;;;x;neg;;;;Veterinarska fakulteta
-2007-08-21;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-08-22;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-08-22;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-08-28;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-08-29;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-08-29;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-09-05;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-06;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-06;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-12;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-13;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-13;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-18;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-19;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-26;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-26;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-09-27;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-03;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-03;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-03;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-09;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-10;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-12;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-17;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-17;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-17;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2007-10-24;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-10-24;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-10-25;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-11-07;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-11-07;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-11-14;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2007-11-20;24;neg;;;x;x;;;;Veterinarska fakulteta
-2007-11-20;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2007-11-21;35;neg;;;x;x;;;;Veterinarska fakulteta
-2007-12-06;24;neg;;;x;x;;;;Veterinarska fakulteta
-2008-01-24;24;neg;;;x;x;;;;Veterinarska fakulteta
-2008-05-06;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-07;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-05-07;24;x;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-13;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-13;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-14;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-21;35;x;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-21;24;x;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-21;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-28;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-28;0DB2;poz;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-29;24;poz;;;neg;neg;;;;Veterinarska fakulteta
-2008-05-31;24;;;;;;;y;;Veterinarska fakulteta
-2008-05-31;0DB2;;;;;;;y;;Veterinarska fakulteta
-2008-06-02;35;poz;;;x;x;;;;Veterinarska fakulteta
-2008-06-04;35;;;;;;;y;;Veterinarska fakulteta
-2008-06-11;35;poz;;;x;x;;;;Veterinarska fakulteta
-2008-06-11;24;poz;;;x;x;;;;Veterinarska fakulteta
-2008-06-11;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2008-06-24;35;neg;;;x;x;;;;Veterinarska fakulteta
-2008-06-24;24;neg;;;x;x;;;;Veterinarska fakulteta
-2008-06-24;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2008-06-30;35;poz;;;x;x;;;;Veterinarska fakulteta
-2008-06-30;24;poz;;;x;x;;;;Veterinarska fakulteta
-2008-07-01;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2008-07-09;35;poz;;;x;x;;;;Veterinarska fakulteta
-2008-07-09;24;poz;;;x;x;;;;Veterinarska fakulteta
-2008-07-09;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2008-07-16;35;neg;;;x;x;;;;Veterinarska fakulteta
-2008-07-16;24;neg;;;x;x;;;;Veterinarska fakulteta
-2008-07-16;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2008-07-22;35;neg;;;x;x;;;;Veterinarska fakulteta
-2008-07-22;24;neg;;;x;x;;;;Veterinarska fakulteta
-2008-07-24;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2008-07-25;35;;;;;;;;y;Veterinarska fakulteta
-2008-07-25;24;;;;;;;;y;Veterinarska fakulteta
-2008-07-28;0DB2;;;;;;;;y;Veterinarska fakulteta
-2008-07-30;35;neg;;;x;x;;;;Veterinarska fakulteta
-2008-07-30;24;neg;;;x;x;;;;Veterinarska fakulteta
-2008-07-30;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2008-08-06;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-08-06;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-08-07;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-08-12;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-08-12;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-08-13;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-08-20;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-08-20;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-08-20;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-08-27;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-08-27;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-08-28;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-09-02;0DB2;poz;;;neg;neg;;;;Veterinarska fakulteta
-2008-09-03;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-09-03;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-09-06;0DB2;;;;;;;y;;Veterinarska fakulteta
-2008-09-10;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-09-10;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-09-17;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-09-17;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-09-17;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-09-24;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-09-24;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-09-24;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-09-29;0DB2;;;;;;;;y;Veterinarska fakulteta
-2008-10-02;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-10-02;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-10-02;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-10-08;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-10-08;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-10-08;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-10-15;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-10-15;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-10-15;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-10-22;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-10-22;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-10-23;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-10-29;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-10-29;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-11-03;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-11-12;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-11-12;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-11-12;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-11-19;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-11-20;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-11-20;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-11-27;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-11-27;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-11-28;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2008-12-03;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2008-12-03;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2008-12-03;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2009-04-24;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2009-05-13;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2009-05-13;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2009-05-26;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-05-26;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-05-26;0DB2;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-05-28;35;;;;;;;y;;Veterinarska fakulteta
-2009-05-28;24;;;;;;;y;;Veterinarska fakulteta
-2009-05-28;0DB2;;;;;;;y;;Veterinarska fakulteta
-2009-06-22;35;poz;;;neg;x;;;;Veterinarska fakulteta
-2009-06-22;24;poz;;;neg;x;;;;Veterinarska fakulteta
-2009-06-22;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2009-06-27;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-07-01;0DB2;;;;;;;;y;Veterinarska fakulteta
-2009-07-02;24;neg;;;x;x;;;;Veterinarska fakulteta
-2009-07-06;35;poz;;;x;x;;;;Veterinarska fakulteta
-2009-07-07;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-07-08;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-07-13;24;neg;;;x;x;;;;Veterinarska fakulteta
-2009-07-16;35;neg;;;x;x;;;;Veterinarska fakulteta
-2009-07-17;24;neg;;;x;x;;;;Veterinarska fakulteta
-2009-07-20;24;;;;;;;;y;Veterinarska fakulteta
-2009-07-21;35;neg;;;x;x;;;;Veterinarska fakulteta
-2009-07-21;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-07-24;35;;;;;;;;y;Veterinarska fakulteta
-2009-07-24;24;neg;;;x;x;;;;Veterinarska fakulteta
-2009-08-03;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-08-03;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-08-05;35;;;;;;;y;;Veterinarska fakulteta
-2009-08-05;24;;;;;;;y;;Veterinarska fakulteta
-2009-08-06;24;neg;;;x;x;;;;Veterinarska fakulteta
-2009-08-06;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-08-10;35;neg;;;x;x;;;;Veterinarska fakulteta
-2009-08-11;24;neg;;;x;x;;;;Veterinarska fakulteta
-2009-08-11;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2009-08-14;24;;;;;;;;y;Veterinarska fakulteta
-2009-08-17;35;neg;;;x;x;;;;Veterinarska fakulteta
-2009-08-17;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2009-08-19;24;neg;;;x;x;;;;Veterinarska fakulteta
-2009-08-20;35;;;;;;;;y;Veterinarska fakulteta
-2009-08-26;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-08-26;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-08-26;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-02;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-02;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2009-09-03;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-09;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-09;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-10;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-16;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-16;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-18;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-23;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-23;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-25;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-29;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-29;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-09-30;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-07;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-07;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-08;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-14;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-14;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-15;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-21;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-21;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-21;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-28;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-28;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-10-29;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-11-11;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-11-11;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-11-12;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-11-25;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-11-25;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2009-11-27;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-04-07;35;neg;;;x;x;;;;Veterinarska fakulteta
-2010-04-07;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2010-04-09;24;neg;;;x;x;;;;Veterinarska fakulteta
-2010-04-21;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-04-23;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-04-23;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-05-05;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-05-05;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-05-10;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-05-19;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-05-19;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-05-21;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2010-05-25;35;neg;;;x;x;;;;Veterinarska fakulteta
-2010-05-25;24;neg;;;x;x;;;;Veterinarska fakulteta
-2010-05-25;0DB2;neg;;;neg;< 3 mg DA/kg;;y;;Veterinarska fakulteta
-2010-05-26;35;;;;;;;y;;Veterinarska fakulteta
-2010-06-02;35;neg;;;x;x;;;;Veterinarska fakulteta
-2010-06-02;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-06-03;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2010-06-04;24;;;;;;;y;;Veterinarska fakulteta
-2010-06-07;35;;;;;;;;y;Veterinarska fakulteta
-2010-06-09;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-06-09;24;poz;;;x;x;;;;Veterinarska fakulteta
-2010-06-11;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2010-06-17;35;;;;;;;y;;Veterinarska fakulteta
-2010-06-23;35;neg;;;x;x;;;;Veterinarska fakulteta
-2010-06-23;24;poz;;;x;x;;;;Veterinarska fakulteta
-2010-06-23;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-06-28;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2010-07-05;24;neg;;;x;x;;;;Veterinarska fakulteta
-2010-07-07;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-07-07;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2010-07-09;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-07-10;35;;;;;;;;y;Veterinarska fakulteta
-2010-07-11;24;;;;;;;;y;Veterinarska fakulteta
-2010-07-14;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-07-16;35;;;;;;;y;;Veterinarska fakulteta
-2010-07-16;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-07-20;35;poz;;;x;x;;;;Veterinarska fakulteta
-2010-07-20;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-07-21;0DB2;;;;;;;;y;Veterinarska fakulteta
-2010-07-26;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-07-26;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-08-04;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-08-04;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-08-06;24;;;;;;;y;;Veterinarska fakulteta
-2010-08-09;24;neg;;;x;x;;;;Veterinarska fakulteta
-2010-08-09;0DB2;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-08-10;0DB2;;;;;;;y;;Veterinarska fakulteta
-2010-08-17;35;poz;;;x;x;;;;Veterinarska fakulteta
-2010-08-17;24;poz;;;x;x;;;;Veterinarska fakulteta
-2010-08-17;24;neg;;;x;x;;;;Veterinarska fakulteta
-2010-08-17;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2010-08-25;35;poz;;;x;x;;;;Veterinarska fakulteta
-2010-08-25;24;poz;;;x;x;;;;Veterinarska fakulteta
-2010-08-25;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2010-09-02;35;poz;;;x;x;;;;Veterinarska fakulteta
-2010-09-02;24;poz;;;x;x;;;;Veterinarska fakulteta
-2010-09-03;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2010-10-04;35;poz;;;x;x;;;;Veterinarska fakulteta
-2010-10-14;35;poz;;;x;x;;;;Veterinarska fakulteta
-2010-10-14;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2010-10-15;24;poz;;;x;x;;;;Veterinarska fakulteta
-2010-11-03;35;poz;;;x;x;;;;Veterinarska fakulteta
-2010-11-03;24;poz;;;x;x;;;;Veterinarska fakulteta
-2010-11-03;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2010-11-25;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-11-25;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-11-26;0DB2;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-12-08;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-12-08;24;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-12-08;0DB2;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-12-22;0DB2;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-12-28;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2010-12-28;24;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-01-18;35;neg;;;x;x;;;;Veterinarska fakulteta
-2011-01-18;24;poz;;;x;x;;;;Veterinarska fakulteta
-2011-01-19;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2011-01-24;35;poz;;;x;x;;;;Veterinarska fakulteta
-2011-02-02;24;poz;;;x;x;;;;Veterinarska fakulteta
-2011-02-09;35;poz;;;x;x;;;;Veterinarska fakulteta
-2011-02-11;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2011-02-16;35;poz;;;x;x;;;;Veterinarska fakulteta
-2011-02-16;24;poz;;;x;x;;;;Veterinarska fakulteta
-2011-02-16;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2011-03-09;35;neg;;;x;x;;;;Veterinarska fakulteta
-2011-03-09;24;poz;;;x;x;;;;Veterinarska fakulteta
-2011-03-09;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2011-03-16;35;poz;;;x;x;;;;Veterinarska fakulteta
-2011-03-17;24;neg;;;x;x;;;;Veterinarska fakulteta
-2011-03-23;35;neg;;;x;x;;;;Veterinarska fakulteta
-2011-03-23;24;neg;;;x;x;;;;Veterinarska fakulteta
-2011-03-23;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
-2011-03-26;24;;;;;;;;y;Veterinarska fakulteta
-2011-03-30;35;neg;;;x;x;;;;Veterinarska fakulteta
-2011-03-30;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2011-04-03;35;;;;;;;;y;Veterinarska fakulteta
-2011-04-07;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2011-04-13;0DB2;;;;;;;;y;Veterinarska fakulteta
-2011-04-26;35;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-04-26;24;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-04-29;0DB2;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-05-12;35;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-05-12;0DB2;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-05-13;24;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-05-25;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-05-25;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-06-07;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-06-08;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-06-08;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-06-21;35;x;;;neg;x;;;;Veterinarska fakulteta
-2011-06-21;24;x;;;neg;x;;;;Veterinarska fakulteta
-2011-06-28;0DB2;x;;;neg;x;;;;Veterinarska fakulteta
-2011-07-06;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-07-06;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-07-08;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-07-20;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-07-20;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-07-26;0DB2;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-08-08;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-08-08;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-08-08;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-08-19;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-08-19;0DB2;;;;;;;;;Veterinarska fakulteta
-2011-08-22;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-09-05;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-09-05;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-10-03;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-10-03;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-10-17;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-10-17;24;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-10-26;24;;;;;;;y;;Veterinarska fakulteta
-2011-10-27;35;neg;;;x;x;;;;Veterinarska fakulteta
-2011-10-27;24;neg;;;x;x;;;;Veterinarska fakulteta
-2011-11-07;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-11-10;35;;;;;;;y;;Veterinarska fakulteta
-2011-11-10;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-11-23;35;x;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-11-23;24;x;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-12-07;35;neg;;;x;x;;;;Veterinarska fakulteta
-2011-12-07;24;neg;;;x;x;;;;Veterinarska fakulteta
-2011-12-13;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2011-12-13;24;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2012-01-10;35;;;;;;;;y;Veterinarska fakulteta
-2012-01-13;35;neg;;;x;x;;;;Veterinarska fakulteta
-2012-01-13;24;neg;;;x;x;;;;Veterinarska fakulteta
-2012-02-15;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2012-02-17;35;neg;;;x;x;;;;Veterinarska fakulteta
-2012-02-17;24;neg;;;x;x;;;;Veterinarska fakulteta
-2012-03-01;24;;;;;;;;y;Veterinarska fakulteta
-2012-03-16;35;neg;;;x;x;;;;Veterinarska fakulteta
-2012-03-16;24;neg;;;x;x;;;;Veterinarska fakulteta
-2012-03-20;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2012-04-05;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2012-04-05;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-04-05;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-05-08;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2012-05-08;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-05-11;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-05-24;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2012-05-25;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2012-05-25;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2012-06-07;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2012-06-07;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-06-08;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-06-21;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2012-06-26;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2012-06-28;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-07-05;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2012-07-06;35;neg;;;x;x;;;;Veterinarska fakulteta
-2012-07-06;24;neg;;;x;x;;;;Veterinarska fakulteta
-2012-07-13;35;neg;;;neg;< 3 mg DA/kg;poz;;;Veterinarska fakulteta
-2012-07-14;35;;;;;;;y;;Veterinarska fakulteta
-2012-07-16;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-07-17;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-07-20;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2012-07-25;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-08-06;35;neg;;;x;x;neg (na meji);;;Veterinarska fakulteta
-2012-08-09;24;neg;;;neg;neg;neg;;;Veterinarska fakulteta
-2012-08-14;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-08-16;35;neg;;;neg;< 3 mg DA/kg;neg;;;Veterinarska fakulteta
-2012-08-23;24;x;;;x;neg;;;;Veterinarska fakulteta
-2012-08-23;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2012-08-28;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2012-08-29;35;;;;;;;;y;Veterinarska fakulteta
-2012-09-06;35;neg;;;x;x;;;;Veterinarska fakulteta
-2012-09-11;24;neg;;;x;x;;;;Veterinarska fakulteta
-2012-09-11;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2012-09-25;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-09-25;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-09-25;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-10-04;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-10-04;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-10-04;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-10-11;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-10-11;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-10-11;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-10-18;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-10-18;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-10-18;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-10-24;24;neg;;;x;x;;;;Veterinarska fakulteta
-2012-10-24;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2012-10-25;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2012-11-08;35;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-11-15;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-11-18;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-11-22;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2012-11-29;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-11-29;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-12-06;35;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-12-06;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2012-12-13;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-01-19;35;neg;;;x;x;;;;Veterinarska fakulteta
-2013-01-29;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2013-01-31;24;neg;;;x;x;;;;Veterinarska fakulteta
-2013-02-26;35;neg;;;x;x;;;;Veterinarska fakulteta
-2013-02-26;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2013-02-28;24;neg;;;x;x;;;;Veterinarska fakulteta
-2013-03-21;35;neg;;;x;x;;;;Veterinarska fakulteta
-2013-03-21;24;neg;;;x;x;;;;Veterinarska fakulteta
-2013-04-04;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2013-04-10;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-04-10;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-04-11;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-04-18;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-04-18;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-04-23;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-05-14;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-05-14;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-05-14;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-06-06;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-06-06;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-06-06;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-06-19;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-06-19;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-06-20;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-06-26;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-06-27;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-07-04;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-07-09;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-07-11;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-07-17;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-07-23;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-07-30;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-08-01;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-08-07;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-08-07;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-08-14;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-08-14;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-08-20;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-08-22;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-08-28;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-08-29;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-09-03;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-09-04;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-09-18;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-09-18;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-09-18;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-09-25;35;neg;;;x;x;;;;Veterinarska fakulteta
-2013-09-25;24;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-09-25;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
-2013-10-07;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-10-08;24;poz;;;neg;neg;;;;Veterinarska fakulteta
-2013-10-09;0DB2;poz;;;x;neg;;;;Veterinarska fakulteta
-2013-10-17;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-10-17;24;neg;;;neg;neg;;;;Veterinarska fakulteta
-2013-10-22;35;;;;;;;y;;Veterinarska fakulteta
-2013-10-22;24;;;;;;;y;;Veterinarska fakulteta
-2013-10-22;0DB2;;;;;;;y;;Veterinarska fakulteta
-2013-10-23;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-10-23;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-10-23;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-10-29;35;;;;;;;;y;Veterinarska fakulteta
-2013-10-29;24;;;;;;;;y;Veterinarska fakulteta
-2013-10-29;0DB2;;;;;;;;y;Veterinarska fakulteta
-2013-11-04;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-11-05;24;poz;;;x;neg;;;;Veterinarska fakulteta
-2013-11-05;0DB2;poz;;;x;neg;;;;Veterinarska fakulteta
-2013-11-13;0DB2;;;;;;;y;;Veterinarska fakulteta
-2013-11-14;24;;;;;;;y;;Veterinarska fakulteta
-2013-11-18;35;;;;;;;y;;Veterinarska fakulteta
-2013-11-19;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-11-19;24;neg;;;x;x;;;;Veterinarska fakulteta
-2013-11-19;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-11-27;35;neg;;;neg;x;;;;Veterinarska fakulteta
-2013-12-05;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-12-05;24;neg;;;x;x;;;;Veterinarska fakulteta
-2013-12-05;0DB2;niso več delali analiz, ker nimajo školjk konzumne velikosti;;;;;;;;Veterinarska fakulteta
-2013-12-06;35;;;;;;;;y;Veterinarska fakulteta
-2013-12-13;24;;;;;;;;y;Veterinarska fakulteta
-2013-12-13;0DB2;;;;;;;;y;Veterinarska fakulteta
-2013-12-24;35;neg;;;;< 3 mg DA/kg;;;;Veterinarska fakulteta
-2013-12-24;24;neg;;;x;neg;;;;Veterinarska fakulteta
-2013-12-24;0DB2;;;;;;;;;Veterinarska fakulteta
-2014-03-11;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-03-13;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-03-20;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-04-10;35;< MD;33;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-04-10;24;< MD;48;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-04-10;0DB2;< MD;59;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-04-17;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2014-04-17;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2014-04-22;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2014-04-23;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-04-24;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-04-28;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-05-13;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-05-13;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-05-14;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-05-21;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2014-05-21;24;< MD;< MD;< MD;< MD;x;0.29 mg/kg;;;Veterinarska fakulteta
-2014-05-21;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2014-05-29;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-05-29;24;< MD;70;< MD;x;x;;;;Veterinarska fakulteta
-2014-05-29;0DB2;< MD;53;< MD;x;x;;;;Veterinarska fakulteta
-2014-06-05;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-06-05;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-06-05;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-06-11;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-06-19;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-06-19;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-06-19;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-06-26;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-06-26;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-06-26;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-07-10;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-07-10;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-07-10;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-07-15;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-07-15;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-07-15;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-07-19;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-07-24;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-07-24;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-08-04;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-08-04;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-08-05;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-08-12;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-08-13;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-08-13;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-08-28;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-08-28;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-08-28;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-09-09;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-09-09;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-09-09;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-09-17;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-09-18;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-09-18;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-09-25;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-09-25;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-09-25;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-10-09;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-10-09;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-10-09;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-10-28;24;< MD;74;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-10-28;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-10-29;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-11-06;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-11-06;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-11-10;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2014-11-20;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-11-20;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-11-20;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2014-11-26;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-11-26;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-11-26;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2014-12-20;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-01-07;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-01-07;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-03-25;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-03-25;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-03-25;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-04-08;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-04-08;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-04-08;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-04-14;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-04-15;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-04-15;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-04-22;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-04-22;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-04-22;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-05-05;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-05-05;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-05-06;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-05-13;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-05-13;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-05-13;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-05-19;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-05-19;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-05-19;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-05-23;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-06-09;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-06-09;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-06-09;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-06-16;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-06-16;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-06-17;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-06-23;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-06-23;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-07-07;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-07-07;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-07-07;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-07-16;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-07-16;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-07-16;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-07-28;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-07-28;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-07-29;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-08-10;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-08-10;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-08-11;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-08-19;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-08-19;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-08-19;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-08-27;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-08-27;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2015-09-17;35;< MD;43;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-09-17;24;< MD;65;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-09-17;0DB2;< MD;57;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2015-10-05;35;< MD;157;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-10-05;24;< MD;259;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-10-05;0DB2;< MD;112;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-10-12;35;< MD;104;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-10-13;24;< MD;88;< MD;x;x;;y;;Veterinarska fakulteta
-2015-10-13;0DB2;< MD;58;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-10-21;35;< MD;178;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-10-21;24;< MD;266;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-10-30;35;;;;;;;y;;Veterinarska fakulteta
-2015-10-30;0DB2;;;;;;;y;;Veterinarska fakulteta
-2015-11-05;35;< MD;101;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-11-05;24;< MD;121;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-11-05;0DB2;< MD;126;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-11-12;35;< MD;61;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-11-12;24;< MD;48;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-11-12;0DB2;< MD;48;< MD;x;< MD;;;;Veterinarska fakulteta
-2015-11-19;35;;;;;;;;y;Veterinarska fakulteta
-2015-11-19;24;;;;;;;;y;Veterinarska fakulteta
-2015-11-19;0DB2;;;;;;;;y;Veterinarska fakulteta
-2015-11-25;35;< MD;301;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-11-25;24;< MD;171;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-11-25;0DB2;< MD;112;< MD;< MD;x;;;;Veterinarska fakulteta
-2015-11-30;35;;;;;;;y;;Veterinarska fakulteta
-2015-11-30;24;;;;;;;y;;Veterinarska fakulteta
-2015-12-08;35;< MD;86;< MD;x;x;;;;Veterinarska fakulteta
-2015-12-08;24;< MD;120;< MD;x;x;;;;Veterinarska fakulteta
-2015-12-08;0DB2;< MD;38;< MD;x;x;;;;Veterinarska fakulteta
-2015-12-17;35;< MD;61;< MD;x;x;;;;Veterinarska fakulteta
-2015-12-17;24;< MD;66;< MD;x;x;;;;Veterinarska fakulteta
-2015-12-23;35;;;;;;;;y;Veterinarska fakulteta
-2015-12-23;24;;;;;;;;y;Veterinarska fakulteta
-2016-03-30;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-03-30;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-03-30;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-04-12;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-04-12;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-04-12;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-04-21;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-04-21;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-04-21;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-04-28;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-04-28;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-04-28;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-05-05;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-05-05;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-05-05;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-05-18;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-05-18;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-05-18;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-05-24;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-05-24;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-05-24;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
-2016-06-01;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-06-01;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-06-01;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-06-15;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-06-15;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-06-15;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-06-28;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-06-28;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-06-28;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-07-07;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-07-07;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-07-12;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-07-20;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-07-20;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-07-20;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-07-27;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-07-27;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-07-28;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-08-11;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-08-11;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-08-11;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-08-24;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-08-24;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-08-24;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-08-30;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-08-30;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-08-30;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-09-06;35;< MD;42;< MD;x;x;;;;Veterinarska fakulteta
-2016-09-06;24;< MD;123;75;x;x;;;;Veterinarska fakulteta
-2016-09-06;0DB2;< MD;140;86;x;x;;;;Veterinarska fakulteta
-2016-09-09;0DB2;;;;;;;y;;Veterinarska fakulteta
-2016-09-13;35;< MD;>320, ocena 920;< MD;x;x;;;;Veterinarska fakulteta
-2016-09-13;24;< MD;>320, ocena 1580;< MD;x;x;;;;Veterinarska fakulteta
-2016-09-13;0DB2;< MD;>320, ocena 1880;< MD;x;x;;;;Veterinarska fakulteta
-2016-09-16;24;;;;;;;y;;Veterinarska fakulteta
-2016-10-06;35;< MD;109;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-10-06;24;< MD;230;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-10-06;0DB2;< MD;>320, ocena 336;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-10-26;35;< MD;51;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-10-26;24;< MD;78;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-10-26;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-11-09;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-11-09;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-11-09;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2016-11-18;24;;;;;;;;y;Veterinarska fakulteta
-2016-11-18;0DB2;;;;;;;;y;Veterinarska fakulteta
-2016-11-30;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-11-30;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-11-30;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2016-12-21;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-12-21;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2016-12-22;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-01-24;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-01-24;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-01-24;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-02-14;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-02-14;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-02-14;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-03-07;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-03-09;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-03-09;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-04-05;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-04-05;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-04-05;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-04-18;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-04-18;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-04-18;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-05-18;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-05-18;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-05-18;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-05-24;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-05-25;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-05-25;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-05-30;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-05-30;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-05-30;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-06-08;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-06-08;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-06-08;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-06-22;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-06-22;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-06-22;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-06-27;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-06-27;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-06-27;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-07-04;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-07-04;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-07-04;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-07-13;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-07-13;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-07-13;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-07-26;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-07-26;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-07-26;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-08-01;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-08-01;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-08-01;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-08-08;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-08-08;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-08-08;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-08-24;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-08-24;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-08-24;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-09-05;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-09-05;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-09-05;0DB2;< MD;72;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-09-18;35;< MD;92;< MD;x;x;;;;Veterinarska fakulteta
-2017-09-18;24;< MD;96;< MD;x;x;;;;Veterinarska fakulteta
-2017-09-18;0DB2;< MD;183;< MD;x;x;;y;;Veterinarska fakulteta
-2017-09-25;35;< MD;163;< MD;x;x;;y;;Veterinarska fakulteta
-2017-09-25;24;< MD;219;< MD;x;x;;y;;Veterinarska fakulteta
-2017-10-03;35;< MD;>320, ocena 470;< MD;x;x;;;;Veterinarska fakulteta
-2017-10-03;24;< MD;239;< MD;x;x;;;;Veterinarska fakulteta
-2017-10-03;0DB2;< MD;203;< MD;x;x;;;;Veterinarska fakulteta
-2017-10-17;24;< MD;78;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-10-17;0DB2;< MD;63;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-10-18;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-10-25;35;< MD;56;< MD;x;x;;;y;Veterinarska fakulteta
-2017-10-25;24;< MD;72;< MD;x;x;;;y;Veterinarska fakulteta
-2017-10-25;0DB2;< MD;90;< MD;x;x;;;y;Veterinarska fakulteta
-2017-11-02;35;< MD;58;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-11-02;24;< MD;85;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-11-09;0DB2;< MD;61;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2017-11-23;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-11-23;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-11-23;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-12-05;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-12-05;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-12-05;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
-2017-12-27;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-12-27;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2017-12-27;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-01-25;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-01-25;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-01-25;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-03-06;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-03-06;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-03-06;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-03-29;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-03-29;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-04-11;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-04-11;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-04-11;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-04-25;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-04-25;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-04-25;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-05-08;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-05-08;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-05-08;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-05-15;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-05-15;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-05-22;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-05-31;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-05-31;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-05-31;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-06-07;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-06-07;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-06-07;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-06-19;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-06-19;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-06-19;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-06-28;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-06-28;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-06-28;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-07-10;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-07-10;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-07-10;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-07-19;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-07-19;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-07-19;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-07-24;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-07-24;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-07-24;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-08-01;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-08-01;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-08-01;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-08-13;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-08-13;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-08-13;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-08-27;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-08-27;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-08-27;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-09-12;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-09-12;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-09-12;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-09-19;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-09-20;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-09-20;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-09-28;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-09-28;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-09-28;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-10-09;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-10-09;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-10-09;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-10-18;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-10-18;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-10-18;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-11-06;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-11-06;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-11-06;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2018-11-27;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-11-27;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-11-27;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-12-07;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2018-12-07;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-05-17;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-06-06;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-06-06;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-06-06;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-06-18;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-06-18;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-06-18;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-06-27;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-06-27;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-06-27;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-07-03;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-07-03;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-07-03;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-07-10;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-07-10;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-07-10;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-07-23;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-07-23;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-07-23;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-07-31;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-07-31;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-07-31;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-08-22;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-08-22;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-08-22;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-08-29;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-08-29;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-08-29;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-09-10;35;< MD;132;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-09-10;24;< MD;54;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-09-10;0DB2;< MD;>240, ocena 510;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-09-12;0DB2;;;;;;;y;;Veterinarska fakulteta
-2019-09-14;35;;;;;;;y;;Veterinarska fakulteta
-2019-09-14;24;;;;;;;y;;Veterinarska fakulteta
-2019-09-16;35;< MD;87;< MD;x;x;;;;Veterinarska fakulteta
-2019-09-16;24;< MD;72;< MD;x;x;;;;Veterinarska fakulteta
-2019-09-16;0DB2;< MD;274;< MD;x;x;;;;Veterinarska fakulteta
-2019-09-30;35;< MD;66;< MD;x;x;;;;Veterinarska fakulteta
-2019-09-30;24;< MD;57;< MD;x;x;;;;Veterinarska fakulteta
-2019-09-30;0DB2;< MD;186;< MD;x;x;;;;Veterinarska fakulteta
-2019-10-17;35;;;;;;;;y;Veterinarska fakulteta
-2019-10-17;24;;;;;;;;y;Veterinarska fakulteta
-2019-10-17;0DB2;;;;;;;;y;Veterinarska fakulteta
-2019-10-22;35;< MD;50;< MD;x;x;;;;Veterinarska fakulteta
-2019-10-22;24;< MD;44;< MD;x;x;;;;Veterinarska fakulteta
-2019-10-22;0DB2;< MD;51;< MD;x;x;;;;Veterinarska fakulteta
-2019-10-25;35;< MD;32;< MD;x;x;;;;Veterinarska fakulteta
-2019-10-25;24;< MD;38;< MD;x;x;;;;Veterinarska fakulteta
-2019-11-08;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-11-08;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-11-08;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-11-26;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-11-26;24;< MD;52;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-11-26;0DB2;< MD;56;< MD;< MD;< MD;;;;Veterinarska fakulteta
-2019-12-20;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-12-20;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-12-20;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-12-30;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-12-30;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
-2019-12-30;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+15/09/1989;35;poz;;;;;;;;Sedmak in sod., 1990
+15/09/1989;24;poz;;;;;;;;Sedmak in sod., 1990
+25/09/1989;35;;;;;;;y;;Sedmak&Obal 1998
+25/09/1989;24;;;;;;;y;;Sedmak&Obal 1998
+25/09/1989;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
+10/12/1989;35;;;;;;;;y;Sedmak in sod., 1990
+19/01/1990;24;neg;;;;;;;;Sedmak&Obal 1998
+03/03/1990;24;neg;;;;;;;y;Sedmak&Obal 1998
+03/03/1990;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
+25/07/1990;35;poz;;;;;;y;;Sedmak&Obal 1998
+25/07/1990;24;poz;;;;;;y;;Sedmak&Obal 1998
+25/07/1990;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
+02/08/1990;35;neg;;;;;;;y;Sedmak&Obal 1998
+02/08/1990;24;neg;;;;;;;y;Sedmak&Obal 1998
+02/08/1990;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
+11/10/1993;35;poz;;;;;;y;;Sedmak&Obal 1998
+11/10/1993;24;poz;;;;;;y;;Sedmak&Obal 1998
+11/10/1993;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
+22/11/1993;35;neg;;;;;;;y;Sedmak&Obal 1998
+22/11/1993;24;neg;;;;;;;y;Sedmak&Obal 1998
+22/11/1993;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
+09/08/1994;35;poz;;;;;;y;;Sedmak&Obal 1998
+09/08/1994;24;poz;;;;;;y;;Sedmak&Obal 1998
+09/08/1994;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
+27/09/1994;35;neg;;;;;;;y;Sedmak&Obal 1998
+27/09/1994;24;neg;;;;;;;y;Sedmak&Obal 1998
+27/09/1994;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
+22/09/1995;35;poz;;;;;;y;;Sedmak&Obal 1998
+22/09/1995;24;poz;;;;;;y;;Sedmak&Obal 1998
+22/09/1995;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
+03/11/1995;35;neg;;;;;;;y;Sedmak&Obal 1998
+03/11/1995;24;neg;;;;;;;y;Sedmak&Obal 1998
+03/11/1995;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
+03/10/1996;35;poz;;;;;;y;;Sedmak&Obal 1998
+03/10/1996;24;poz;;;;;;y;;Sedmak&Obal 1998
+03/10/1996;0DB2;poz;;;;;;y;;Sedmak&Obal 1998
+08/11/1996;35;neg;;;;;;;y;Sedmak&Obal 1998
+08/11/1996;24;neg;;;;;;;y;Sedmak&Obal 1998
+08/11/1996;0DB2;neg;;;;;;;y;Sedmak&Obal 1998
+01/08/1997;35;poz;;;;;;y;;Sedmak&Obal 1998
+01/08/1997;24;poz;;;;;;y;;Sedmak&Obal 1998
+30/10/1997;35;neg;;;;;;;y;Sedmak&Obal 1998
+30/10/1997;24;neg;;;;;;;y;Sedmak&Obal 1998
+17/06/1999;35;neg;;;neg;x;;;;Sedmak in sod., 2003
+17/06/1999;24;neg;;;neg;x;;;;Sedmak in sod., 2003
+08/07/1999;35;neg;;;neg;x;;;;Sedmak in sod., 2003
+08/07/1999;24;neg;;;neg;x;;;;Sedmak in sod., 2003
+21/07/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+22/07/1999;35;neg;;;x;x;;;;Sedmak in sod., 2003
+22/07/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+05/08/1999;35;neg;;;x;x;;;;Sedmak in sod., 2003
+13/08/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+25/08/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+02/09/1999;35;neg;;;x;x;;;;Sedmak in sod., 2003
+02/09/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+09/09/1999;35;neg;;;x;x;;;;Sedmak in sod., 2003
+09/09/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+10/09/1999;35;;;;;;;y;;Sedmak in sod., 2003
+10/09/1999;24;;;;;;;y;;Sedmak in sod., 2003
+15/09/1999;35;neg;;;x;x;;;;Sedmak in sod., 2003
+15/09/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+17/09/1999;35;neg;;;x;x;;;;Sedmak in sod., 2003
+21/09/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+27/09/1999;35;;;;;;;;y;Sedmak in sod., 2003
+27/09/1999;24;;;;;;;;y;Sedmak in sod., 2003
+28/09/1999;35;neg;;;x;x;;;;Sedmak in sod., 2003
+14/10/1999;35;neg;;;x;x;;;;Sedmak in sod., 2003
+15/11/1999;24;poz;;;x;x;;;;Sedmak in sod., 2003
+17/11/1999;35;;;;;;;y;;Sedmak in sod., 2003
+17/11/1999;24;;;;;;;y;;Sedmak in sod., 2003
+19/11/1999;35;poz;;;neg;x;;;;Sedmak in sod., 2003
+06/12/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+13/12/1999;24;neg;;;x;x;;;;Sedmak in sod., 2003
+14/12/1999;35;neg;;;x;x;;;;Sedmak in sod., 2003
+17/12/1999;35;;;;;;;;y;Sedmak in sod., 2003
+17/12/1999;24;;;;;;;;y;Sedmak in sod., 2003
+26/05/2000;35;x;;;neg;x;;;;Sedmak in sod., 2003
+26/05/2000;24;x;;;neg;x;;;;Sedmak in sod., 2003
+09/06/2000;35;neg;;;neg;x;;;;Sedmak in sod., 2003
+09/06/2000;24;neg;;;neg;x;;;;Sedmak in sod., 2003
+22/06/2000;35;neg;;;neg;x;;;;Sedmak in sod., 2003
+22/06/2000;24;neg;;;neg;x;;;;Sedmak in sod., 2003
+05/07/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+05/07/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+21/07/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+21/07/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+08/08/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+08/08/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+23/08/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+30/08/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+05/09/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+05/09/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+12/09/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+12/09/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+20/09/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+20/09/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+27/09/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+27/09/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+04/10/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+04/10/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+10/10/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+10/10/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+18/10/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+25/10/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+25/10/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+08/11/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+15/11/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+22/11/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+22/11/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+30/11/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+13/12/2000;35;neg;;;x;x;;;;Sedmak in sod., 2003
+13/12/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+27/12/2000;24;neg;;;x;x;;;;Sedmak in sod., 2003
+30/05/2001;24;x;;;neg;x;;;;Sedmak in sod., 2003
+06/06/2001;35;neg;;;neg;x;;;;Sedmak in sod., 2003
+13/06/2001;24;x;;;neg;x;;;;Sedmak in sod., 2003
+20/06/2001;35;neg;;;neg;x;;;;Sedmak in sod., 2003
+27/06/2001;24;neg;;;neg;x;;;;Sedmak in sod., 2003
+03/07/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+09/07/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+16/07/2001;35;poz;;;x;x;;;;Sedmak in sod., 2003
+19/07/2001;35;poz;;;x;x;;y;;Sedmak in sod., 2003
+19/07/2001;24;;;;;;;y;;Sedmak in sod., 2003
+23/07/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+23/07/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+30/07/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+30/07/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+01/08/2001;35;neg;;;x;x;;;y;Sedmak in sod., 2003
+01/08/2001;24;;;;;;;;y;Sedmak in sod., 2003
+06/08/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+06/08/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+13/08/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+13/08/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+20/08/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+20/08/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+27/08/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+27/08/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+03/09/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+03/09/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+12/09/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+17/09/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+19/09/2001;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+19/09/2001;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+24/09/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+01/10/2001;35;neg;;;neg;x;;;;Sedmak in sod., 2003
+01/10/2001;24;neg;;;neg;x;;;;Sedmak in sod., 2003
+08/10/2001;35;neg;;;neg;x;;;;Sedmak in sod., 2003
+08/10/2001;24;neg;;;neg;x;;;;Sedmak in sod., 2003
+15/10/2001;35;neg;;;neg;x;;;;Sedmak in sod., 2003
+15/10/2001;24;neg;;;neg;x;;;;Sedmak in sod., 2003
+22/10/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+22/10/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+26/10/2001;24;neg;;;x;x;;;;Sedmak in sod., 2003
+29/10/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+06/11/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+12/11/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+19/11/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+26/11/2001;35;neg;;;x;x;;;;Sedmak in sod., 2003
+13/05/2002;35;poz;;;neg;x;;;;Sedmak in sod., 2003
+13/05/2002;24;poz;;;neg;x;;;;Sedmak in sod., 2003
+15/05/2002;35;poz;;;x;x;;y;;Sedmak in sod., 2003
+15/05/2002;24;poz;;;x;x;;y;;Sedmak in sod., 2003
+27/05/2002;35;poz;;;x;x;;;;Sedmak in sod., 2003
+27/05/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+03/06/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+03/06/2002;24;poz;;;x;x;;;;Sedmak in sod., 2003
+10/06/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+10/06/2002;24;poz;;;x;x;;;;Sedmak in sod., 2003
+17/06/2002;35;neg;;;x;x;;;y;Sedmak in sod., 2003
+17/06/2002;24;neg;;;x;x;;;y;Sedmak in sod., 2003
+21/06/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+21/06/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+26/06/2002;35;poz;;;neg;x;;;;Sedmak in sod., 2003
+26/06/2002;24;neg;;;neg;x;;;;Sedmak in sod., 2003
+04/07/2002;35;poz;;;x;x;;y;;Sedmak in sod., 2003
+04/07/2002;24;poz;;;x;x;;y;;Sedmak in sod., 2003
+08/07/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+11/07/2002;24;neg;;;x;x;;;y;Sedmak in sod., 2003
+15/07/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+15/07/2002;24;unreliable;;;x;x;;;;Sedmak in sod., 2003
+22/07/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+22/07/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+24/07/2002;35;neg;;;x;x;;;y;Sedmak in sod., 2003
+24/07/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+31/07/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+12/08/2002;35;poz;;;x;x;;;;Sedmak in sod., 2003
+12/08/2002;24;poz;;;x;x;;;;Sedmak in sod., 2003
+14/08/2002;35;poz;;;x;x;;y;;Sedmak in sod., 2003
+14/08/2002;24;poz;;;x;x;;y;;Sedmak in sod., 2003
+19/08/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+19/08/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+26/08/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+26/08/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+28/08/2002;35;neg;;;x;x;;;y;Sedmak in sod., 2003
+28/08/2002;24;neg;;;x;x;;;y;Sedmak in sod., 2003
+02/09/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+02/09/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+10/09/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+10/09/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+16/09/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+16/09/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+24/09/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+24/09/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+30/09/2002;35;poz;;;x;x;;;;Sedmak in sod., 2003
+30/09/2002;24;unreliable;;;x;x;;;;Sedmak in sod., 2003
+02/10/2002;35;poz;;;x;x;;y;;Sedmak in sod., 2003
+02/10/2002;24;poz;;;x;x;;y;;Sedmak in sod., 2003
+07/10/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+07/10/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+09/10/2002;35;neg;;;x;x;;;y;Sedmak in sod., 2003
+09/10/2002;24;neg;;;x;x;;;y;Sedmak in sod., 2003
+14/10/2002;35;neg;;;x;neg;;;;Sedmak in sod., 2003
+14/10/2002;24;neg;;;x;neg;;;;Sedmak in sod., 2003
+21/10/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+21/10/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+04/11/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+04/11/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+18/11/2002;24;neg;;;x;x;;;;Sedmak in sod., 2003
+25/11/2002;35;neg;;;x;x;;;;Sedmak in sod., 2003
+09/06/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+10/06/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+23/06/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+23/06/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+07/07/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+07/07/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+21/07/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+23/07/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+04/08/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+05/08/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+11/08/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+11/08/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+19/08/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+19/08/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+26/08/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+26/08/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+09/09/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+09/09/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+16/09/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+16/09/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+23/09/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+23/09/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+06/10/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+14/10/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+20/10/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+21/10/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+27/10/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+01/12/2003;35;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+02/12/2003;24;neg;;;? (no data);? (no data);;;;France&Mozetič, 2006
+25/05/2004;24;neg;;;neg;x;;;;Veterinarska fakulteta
+27/05/2004;35;neg;;;neg;x;;;;Veterinarska fakulteta
+08/06/2004;24;neg;;;neg;x;;;;Veterinarska fakulteta
+21/06/2004;35;neg;;;neg;x;;;;Veterinarska fakulteta
+22/06/2004;24;neg;;;neg;x;;;;Veterinarska fakulteta
+05/07/2004;35;neg;;;neg;x;;;;Veterinarska fakulteta
+06/07/2004;24;neg;;;neg;x;;;;Veterinarska fakulteta
+19/07/2004;35;neg;;;neg;x;;;;Veterinarska fakulteta
+20/07/2004;24;? (no data);;;? (no data);x;;;;Veterinarska fakulteta
+09/08/2004;24;neg;;;neg;x;;;;Veterinarska fakulteta
+11/08/2004;35;neg;;;x;x;;;;Veterinarska fakulteta
+25/08/2004;35;neg;;;x;x;;;;Veterinarska fakulteta
+02/09/2004;35;neg;;;x;x;;;;Veterinarska fakulteta
+06/09/2004;24;neg;;;x;x;;;;Veterinarska fakulteta
+13/09/2004;35;poz;;;x;x;;;;Veterinarska fakulteta
+14/09/2004;35;;;;;;;y;;Veterinarska fakulteta
+16/09/2004;24;neg;;;x;x;;;;Veterinarska fakulteta
+20/09/2004;24;poz;;;x;x;;;;Veterinarska fakulteta
+21/09/2004;24;;;;;;;y;;Veterinarska fakulteta
+23/09/2004;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+05/10/2004;24;neg;;;x;x;;;;Veterinarska fakulteta
+05/10/2004;24;poz;;;x;x;;;;Veterinarska fakulteta
+13/10/2004;24;neg;;;neg;x;;;;Veterinarska fakulteta
+14/10/2004;24;;;;;;;;y;Veterinarska fakulteta
+21/10/2004;35;neg;;;x;x;;;;Veterinarska fakulteta
+26/10/2004;24;poz;;;x;x;;;;Veterinarska fakulteta
+27/10/2004;24;;;;;;;y;;Veterinarska fakulteta
+02/11/2004;35;neg;;;x;x;;;;Veterinarska fakulteta
+03/11/2004;35;;;;;;;;y;Veterinarska fakulteta
+08/11/2004;24;neg;;;x;x;;;;Veterinarska fakulteta
+12/11/2004;24;neg;;;x;x;;;;Veterinarska fakulteta
+13/11/2004;24;;;;;;;;y;Veterinarska fakulteta
+22/11/2004;35;neg;;;x;x;;;;Veterinarska fakulteta
+23/02/2005;35;neg;;;x;x;;;;Veterinarska fakulteta
+11/07/2005;24;neg;;;neg;x;;;;Veterinarska fakulteta
+12/07/2005;35;neg;;;neg;x;;;;Veterinarska fakulteta
+09/08/2005;35;neg;;;x;x;;;;Veterinarska fakulteta
+09/08/2005;24;neg;;;x;x;;;;Veterinarska fakulteta
+11/08/2005;24;x;;;x;x;;;;Veterinarska fakulteta
+16/08/2005;35;x;;;x;x;;;;Veterinarska fakulteta
+05/09/2005;35;neg;;;x;x;;;;Veterinarska fakulteta
+20/09/2005;24;neg;;;x;x;;;;Veterinarska fakulteta
+26/09/2005;35;neg;;;x;x;;;;Veterinarska fakulteta
+11/10/2005;35;neg;;;x;x;;;;Veterinarska fakulteta
+17/10/2005;24;neg;;;x;x;;;;Veterinarska fakulteta
+02/11/2005;35;neg;;;x;x;;;;Veterinarska fakulteta
+02/11/2005;24;neg;;;x;x;;;;Veterinarska fakulteta
+08/11/2005;24;neg;;;x;x;;;;Veterinarska fakulteta
+09/11/2005;35;neg;;;x;x;;;;Veterinarska fakulteta
+14/11/2005;24;neg;;;x;x;;;;Veterinarska fakulteta
+15/11/2005;35;neg;;;x;x;;;;Veterinarska fakulteta
+28/11/2005;24;poz;;;neg;< 0,2 mg DA/kg;;y;;Veterinarska fakulteta
+05/12/2005;35;neg;;;x;x;;;;Veterinarska fakulteta
+05/12/2005;24;neg;;;x;x;;;y;Veterinarska fakulteta
+03/05/2006;35;neg;;;neg;x;;;;Veterinarska fakulteta
+03/05/2006;24;neg;;;neg;x;;;;Veterinarska fakulteta
+23/05/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+23/05/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+06/06/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+06/06/2006;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+07/06/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+19/06/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+20/06/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+20/06/2006;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+05/07/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+05/07/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+05/07/2006;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+12/07/2006;35;neg;;;x;x;;;;Veterinarska fakulteta
+12/07/2006;24;x;;;neg;x;;;;Veterinarska fakulteta
+12/07/2006;0DB2;x;;;x;? (no data);;;;Veterinarska fakulteta
+20/07/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+20/07/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+20/07/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+26/07/2006;35;x;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+26/07/2006;24;x;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+26/07/2006;0DB2;x;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+02/08/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+02/08/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+02/08/2006;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+09/08/2006;35;poz;;;neg;0,2 mg DA/kg (neg);;;;Veterinarska fakulteta
+09/08/2006;24;poz;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+09/08/2006;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+12/08/2006;35;;;;;;;y;;Veterinarska fakulteta
+12/08/2006;24;;;;;;;y;;Veterinarska fakulteta
+22/08/2006;35;neg;;;x;x;;;;Veterinarska fakulteta
+22/08/2006;24;neg;;;x;x;;;;Veterinarska fakulteta
+28/08/2006;35;neg;;;x;x;;;;Veterinarska fakulteta
+28/08/2006;24;neg;;;x;x;;;;Veterinarska fakulteta
+31/08/2006;35;;;;;;;;y;Veterinarska fakulteta
+31/08/2006;24;;;;;;;;y;Veterinarska fakulteta
+31/08/2006;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+07/09/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+07/09/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+07/09/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+13/09/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+13/09/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+13/09/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+20/09/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+20/09/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+20/09/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+27/09/2006;35;neg;;;neg;x;;;;Veterinarska fakulteta
+28/09/2006;35;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+28/09/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+28/09/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+03/10/2006;35;poz;;;neg;x;;;;Veterinarska fakulteta
+04/10/2006;35;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+04/10/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+04/10/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+06/10/2006;35;;;;;;;y;;Veterinarska fakulteta
+09/10/2006;35;poz;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+09/10/2006;24;poz;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+09/10/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+12/10/2006;24;;;;;;;y;;Veterinarska fakulteta
+19/10/2006;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+25/10/2006;35;neg;;;x;x;;;;Veterinarska fakulteta
+25/10/2006;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+26/10/2006;24;neg;;;x;x;;;;Veterinarska fakulteta
+02/11/2006;35;neg;;;x;x;;;;Veterinarska fakulteta
+02/11/2006;24;neg;;;x;x;;;;Veterinarska fakulteta
+06/11/2006;35;;;;;;;;y;Veterinarska fakulteta
+06/11/2006;24;;;;;;;;y;Veterinarska fakulteta
+08/11/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+08/11/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+08/11/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+15/11/2006;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+16/11/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+16/11/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+16/11/2006;0DB2;x;;;x;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+23/11/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+23/11/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+23/11/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+29/11/2006;35;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+29/11/2006;24;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+29/11/2006;0DB2;neg;;;neg;< 0,2 mg DA/kg;;;;Veterinarska fakulteta
+22/01/2007;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+09/05/2007;35;poz;;;neg;neg;;;;Veterinarska fakulteta
+09/05/2007;0DB2;poz;;;neg;neg;;;;Veterinarska fakulteta
+10/05/2007;24;poz;;;neg;neg;;;;Veterinarska fakulteta
+12/05/2007;35;;;;;;;y;;Veterinarska fakulteta
+15/05/2007;24;;;;;;;y;;Veterinarska fakulteta
+15/05/2007;0DB2;;;;;;;y;;Veterinarska fakulteta
+21/05/2007;24;neg;;;x;x;;;;Veterinarska fakulteta
+24/05/2007;35;neg;;;x;x;;;;Veterinarska fakulteta
+25/05/2007;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+28/05/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+30/05/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+30/05/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+01/06/2007;24;;;;;;;;y;Veterinarska fakulteta
+02/06/2007;35;;;;;;;;y;Veterinarska fakulteta
+02/06/2007;0DB2;;;;;;;;y;Veterinarska fakulteta
+06/06/2007;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
+07/06/2007;35;x;;;neg;neg;;;;Veterinarska fakulteta
+07/06/2007;24;x;;;neg;neg;;;;Veterinarska fakulteta
+12/06/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+13/06/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+13/06/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+20/06/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+20/06/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+21/06/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+27/06/2007;35;x;;;neg;neg;;;;Veterinarska fakulteta
+27/06/2007;24;x;;;neg;neg;;;;Veterinarska fakulteta
+28/06/2007;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
+04/07/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+04/07/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+04/07/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+13/07/2007;35;x;;;neg;neg;;;;Veterinarska fakulteta
+13/07/2007;24;x;;;neg;neg;;;;Veterinarska fakulteta
+13/07/2007;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
+17/07/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+18/07/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+18/07/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+25/07/2007;24;x;;;x;neg;;;;Veterinarska fakulteta
+26/07/2007;35;x;;;x;neg;;;;Veterinarska fakulteta
+31/07/2007;0DB2;x;;;x;neg;;;;Veterinarska fakulteta
+01/08/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+01/08/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+02/08/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+07/08/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+08/08/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+08/08/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+14/08/2007;35;x;;;x;neg;;;;Veterinarska fakulteta
+14/08/2007;24;x;;;x;neg;;;;Veterinarska fakulteta
+14/08/2007;0DB2;x;;;x;neg;;;;Veterinarska fakulteta
+21/08/2007;24;neg;;;x;neg;;;;Veterinarska fakulteta
+22/08/2007;35;neg;;;x;neg;;;;Veterinarska fakulteta
+22/08/2007;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+28/08/2007;24;neg;;;x;neg;;;;Veterinarska fakulteta
+29/08/2007;35;neg;;;x;neg;;;;Veterinarska fakulteta
+29/08/2007;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+05/09/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+06/09/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+06/09/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+12/09/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+13/09/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+13/09/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+18/09/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+19/09/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+26/09/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+26/09/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+27/09/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+03/10/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+03/10/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+03/10/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+09/10/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+10/10/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+12/10/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+17/10/2007;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+17/10/2007;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+17/10/2007;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+24/10/2007;35;neg;;;x;neg;;;;Veterinarska fakulteta
+24/10/2007;24;neg;;;x;neg;;;;Veterinarska fakulteta
+25/10/2007;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+07/11/2007;35;neg;;;x;neg;;;;Veterinarska fakulteta
+07/11/2007;24;neg;;;x;neg;;;;Veterinarska fakulteta
+14/11/2007;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+20/11/2007;24;neg;;;x;x;;;;Veterinarska fakulteta
+20/11/2007;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+21/11/2007;35;neg;;;x;x;;;;Veterinarska fakulteta
+06/12/2007;24;neg;;;x;x;;;;Veterinarska fakulteta
+24/01/2008;24;neg;;;x;x;;;;Veterinarska fakulteta
+06/05/2008;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
+07/05/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+07/05/2008;24;x;;;neg;neg;;;;Veterinarska fakulteta
+13/05/2008;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+13/05/2008;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+14/05/2008;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+21/05/2008;35;x;;;neg;neg;;;;Veterinarska fakulteta
+21/05/2008;24;x;;;neg;neg;;;;Veterinarska fakulteta
+21/05/2008;0DB2;x;;;neg;neg;;;;Veterinarska fakulteta
+28/05/2008;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+28/05/2008;0DB2;poz;;;neg;neg;;;;Veterinarska fakulteta
+29/05/2008;24;poz;;;neg;neg;;;;Veterinarska fakulteta
+31/05/2008;24;;;;;;;y;;Veterinarska fakulteta
+31/05/2008;0DB2;;;;;;;y;;Veterinarska fakulteta
+02/06/2008;35;poz;;;x;x;;;;Veterinarska fakulteta
+04/06/2008;35;;;;;;;y;;Veterinarska fakulteta
+11/06/2008;35;poz;;;x;x;;;;Veterinarska fakulteta
+11/06/2008;24;poz;;;x;x;;;;Veterinarska fakulteta
+11/06/2008;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+24/06/2008;35;neg;;;x;x;;;;Veterinarska fakulteta
+24/06/2008;24;neg;;;x;x;;;;Veterinarska fakulteta
+24/06/2008;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+30/06/2008;35;poz;;;x;x;;;;Veterinarska fakulteta
+30/06/2008;24;poz;;;x;x;;;;Veterinarska fakulteta
+01/07/2008;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+09/07/2008;35;poz;;;x;x;;;;Veterinarska fakulteta
+09/07/2008;24;poz;;;x;x;;;;Veterinarska fakulteta
+09/07/2008;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+16/07/2008;35;neg;;;x;x;;;;Veterinarska fakulteta
+16/07/2008;24;neg;;;x;x;;;;Veterinarska fakulteta
+16/07/2008;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+22/07/2008;35;neg;;;x;x;;;;Veterinarska fakulteta
+22/07/2008;24;neg;;;x;x;;;;Veterinarska fakulteta
+24/07/2008;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+25/07/2008;35;;;;;;;;y;Veterinarska fakulteta
+25/07/2008;24;;;;;;;;y;Veterinarska fakulteta
+28/07/2008;0DB2;;;;;;;;y;Veterinarska fakulteta
+30/07/2008;35;neg;;;x;x;;;;Veterinarska fakulteta
+30/07/2008;24;neg;;;x;x;;;;Veterinarska fakulteta
+30/07/2008;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+06/08/2008;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+06/08/2008;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+07/08/2008;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+12/08/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+12/08/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+13/08/2008;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+20/08/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+20/08/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+20/08/2008;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+27/08/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+27/08/2008;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+28/08/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+02/09/2008;0DB2;poz;;;neg;neg;;;;Veterinarska fakulteta
+03/09/2008;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+03/09/2008;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+06/09/2008;0DB2;;;;;;;y;;Veterinarska fakulteta
+10/09/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+10/09/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+17/09/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+17/09/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+17/09/2008;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+24/09/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+24/09/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+24/09/2008;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+29/09/2008;0DB2;;;;;;;;y;Veterinarska fakulteta
+02/10/2008;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+02/10/2008;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+02/10/2008;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+08/10/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+08/10/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+08/10/2008;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+15/10/2008;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+15/10/2008;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+15/10/2008;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+22/10/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+22/10/2008;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+23/10/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+29/10/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+29/10/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+03/11/2008;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+12/11/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+12/11/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+12/11/2008;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+19/11/2008;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+20/11/2008;35;neg;;;x;neg;;;;Veterinarska fakulteta
+20/11/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+27/11/2008;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+27/11/2008;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+28/11/2008;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+03/12/2008;35;neg;;;neg;x;;;;Veterinarska fakulteta
+03/12/2008;24;neg;;;x;neg;;;;Veterinarska fakulteta
+03/12/2008;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+24/04/2009;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+13/05/2009;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+13/05/2009;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+26/05/2009;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+26/05/2009;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+26/05/2009;0DB2;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+28/05/2009;35;;;;;;;y;;Veterinarska fakulteta
+28/05/2009;24;;;;;;;y;;Veterinarska fakulteta
+28/05/2009;0DB2;;;;;;;y;;Veterinarska fakulteta
+22/06/2009;35;poz;;;neg;x;;;;Veterinarska fakulteta
+22/06/2009;24;poz;;;neg;x;;;;Veterinarska fakulteta
+22/06/2009;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+27/06/2009;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+01/07/2009;0DB2;;;;;;;;y;Veterinarska fakulteta
+02/07/2009;24;neg;;;x;x;;;;Veterinarska fakulteta
+06/07/2009;35;poz;;;x;x;;;;Veterinarska fakulteta
+07/07/2009;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/07/2009;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+13/07/2009;24;neg;;;x;x;;;;Veterinarska fakulteta
+16/07/2009;35;neg;;;x;x;;;;Veterinarska fakulteta
+17/07/2009;24;neg;;;x;x;;;;Veterinarska fakulteta
+20/07/2009;24;;;;;;;;y;Veterinarska fakulteta
+21/07/2009;35;neg;;;x;x;;;;Veterinarska fakulteta
+21/07/2009;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+24/07/2009;35;;;;;;;;y;Veterinarska fakulteta
+24/07/2009;24;neg;;;x;x;;;;Veterinarska fakulteta
+03/08/2009;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+03/08/2009;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+05/08/2009;35;;;;;;;y;;Veterinarska fakulteta
+05/08/2009;24;;;;;;;y;;Veterinarska fakulteta
+06/08/2009;24;neg;;;x;x;;;;Veterinarska fakulteta
+06/08/2009;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+10/08/2009;35;neg;;;x;x;;;;Veterinarska fakulteta
+11/08/2009;24;neg;;;x;x;;;;Veterinarska fakulteta
+11/08/2009;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+14/08/2009;24;;;;;;;;y;Veterinarska fakulteta
+17/08/2009;35;neg;;;x;x;;;;Veterinarska fakulteta
+17/08/2009;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+19/08/2009;24;neg;;;x;x;;;;Veterinarska fakulteta
+20/08/2009;35;;;;;;;;y;Veterinarska fakulteta
+26/08/2009;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+26/08/2009;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+26/08/2009;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+02/09/2009;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+02/09/2009;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+03/09/2009;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+09/09/2009;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+09/09/2009;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+10/09/2009;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+16/09/2009;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+16/09/2009;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+18/09/2009;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+23/09/2009;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+23/09/2009;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+25/09/2009;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+29/09/2009;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+29/09/2009;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+30/09/2009;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+07/10/2009;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+07/10/2009;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/10/2009;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+14/10/2009;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+14/10/2009;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+15/10/2009;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+21/10/2009;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+21/10/2009;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+21/10/2009;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+28/10/2009;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+28/10/2009;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+29/10/2009;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+11/11/2009;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+11/11/2009;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+12/11/2009;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+25/11/2009;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+25/11/2009;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+27/11/2009;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+07/04/2010;35;neg;;;x;x;;;;Veterinarska fakulteta
+07/04/2010;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+09/04/2010;24;neg;;;x;x;;;;Veterinarska fakulteta
+21/04/2010;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+23/04/2010;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+23/04/2010;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+05/05/2010;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+05/05/2010;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+10/05/2010;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+19/05/2010;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+19/05/2010;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+21/05/2010;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+25/05/2010;35;neg;;;x;x;;;;Veterinarska fakulteta
+25/05/2010;24;neg;;;x;x;;;;Veterinarska fakulteta
+25/05/2010;0DB2;neg;;;neg;< 3 mg DA/kg;;y;;Veterinarska fakulteta
+26/05/2010;35;;;;;;;y;;Veterinarska fakulteta
+02/06/2010;35;neg;;;x;x;;;;Veterinarska fakulteta
+02/06/2010;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+03/06/2010;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+04/06/2010;24;;;;;;;y;;Veterinarska fakulteta
+07/06/2010;35;;;;;;;;y;Veterinarska fakulteta
+09/06/2010;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+09/06/2010;24;poz;;;x;x;;;;Veterinarska fakulteta
+11/06/2010;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+17/06/2010;35;;;;;;;y;;Veterinarska fakulteta
+23/06/2010;35;neg;;;x;x;;;;Veterinarska fakulteta
+23/06/2010;24;poz;;;x;x;;;;Veterinarska fakulteta
+23/06/2010;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+28/06/2010;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+05/07/2010;24;neg;;;x;x;;;;Veterinarska fakulteta
+07/07/2010;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+07/07/2010;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+09/07/2010;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+10/07/2010;35;;;;;;;;y;Veterinarska fakulteta
+11/07/2010;24;;;;;;;;y;Veterinarska fakulteta
+14/07/2010;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+16/07/2010;35;;;;;;;y;;Veterinarska fakulteta
+16/07/2010;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+20/07/2010;35;poz;;;x;x;;;;Veterinarska fakulteta
+20/07/2010;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+21/07/2010;0DB2;;;;;;;;y;Veterinarska fakulteta
+26/07/2010;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+26/07/2010;0DB2;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+04/08/2010;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+04/08/2010;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+06/08/2010;24;;;;;;;y;;Veterinarska fakulteta
+09/08/2010;24;neg;;;x;x;;;;Veterinarska fakulteta
+09/08/2010;0DB2;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+10/08/2010;0DB2;;;;;;;y;;Veterinarska fakulteta
+17/08/2010;35;poz;;;x;x;;;;Veterinarska fakulteta
+17/08/2010;24;poz;;;x;x;;;;Veterinarska fakulteta
+17/08/2010;24;neg;;;x;x;;;;Veterinarska fakulteta
+17/08/2010;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+25/08/2010;35;poz;;;x;x;;;;Veterinarska fakulteta
+25/08/2010;24;poz;;;x;x;;;;Veterinarska fakulteta
+25/08/2010;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+02/09/2010;35;poz;;;x;x;;;;Veterinarska fakulteta
+02/09/2010;24;poz;;;x;x;;;;Veterinarska fakulteta
+03/09/2010;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+04/10/2010;35;poz;;;x;x;;;;Veterinarska fakulteta
+14/10/2010;35;poz;;;x;x;;;;Veterinarska fakulteta
+14/10/2010;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+15/10/2010;24;poz;;;x;x;;;;Veterinarska fakulteta
+03/11/2010;35;poz;;;x;x;;;;Veterinarska fakulteta
+03/11/2010;24;poz;;;x;x;;;;Veterinarska fakulteta
+03/11/2010;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+25/11/2010;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+25/11/2010;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+26/11/2010;0DB2;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/12/2010;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/12/2010;24;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/12/2010;0DB2;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+22/12/2010;0DB2;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+28/12/2010;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+28/12/2010;24;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+18/01/2011;35;neg;;;x;x;;;;Veterinarska fakulteta
+18/01/2011;24;poz;;;x;x;;;;Veterinarska fakulteta
+19/01/2011;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+24/01/2011;35;poz;;;x;x;;;;Veterinarska fakulteta
+02/02/2011;24;poz;;;x;x;;;;Veterinarska fakulteta
+09/02/2011;35;poz;;;x;x;;;;Veterinarska fakulteta
+11/02/2011;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+16/02/2011;35;poz;;;x;x;;;;Veterinarska fakulteta
+16/02/2011;24;poz;;;x;x;;;;Veterinarska fakulteta
+16/02/2011;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+09/03/2011;35;neg;;;x;x;;;;Veterinarska fakulteta
+09/03/2011;24;poz;;;x;x;;;;Veterinarska fakulteta
+09/03/2011;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+16/03/2011;35;poz;;;x;x;;;;Veterinarska fakulteta
+17/03/2011;24;neg;;;x;x;;;;Veterinarska fakulteta
+23/03/2011;35;neg;;;x;x;;;;Veterinarska fakulteta
+23/03/2011;24;neg;;;x;x;;;;Veterinarska fakulteta
+23/03/2011;0DB2;poz;;;x;x;;;;Veterinarska fakulteta
+26/03/2011;24;;;;;;;;y;Veterinarska fakulteta
+30/03/2011;35;neg;;;x;x;;;;Veterinarska fakulteta
+30/03/2011;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+03/04/2011;35;;;;;;;;y;Veterinarska fakulteta
+07/04/2011;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+13/04/2011;0DB2;;;;;;;;y;Veterinarska fakulteta
+26/04/2011;35;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+26/04/2011;24;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+29/04/2011;0DB2;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+12/05/2011;35;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+12/05/2011;0DB2;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+13/05/2011;24;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+25/05/2011;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+25/05/2011;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+07/06/2011;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/06/2011;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/06/2011;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+21/06/2011;35;x;;;neg;x;;;;Veterinarska fakulteta
+21/06/2011;24;x;;;neg;x;;;;Veterinarska fakulteta
+28/06/2011;0DB2;x;;;neg;x;;;;Veterinarska fakulteta
+06/07/2011;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+06/07/2011;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/07/2011;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+20/07/2011;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+20/07/2011;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+26/07/2011;0DB2;x;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/08/2011;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/08/2011;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/08/2011;0DB2;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+19/08/2011;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+19/08/2011;0DB2;;;;;;;;;Veterinarska fakulteta
+22/08/2011;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+05/09/2011;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+05/09/2011;24;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+03/10/2011;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+03/10/2011;24;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+17/10/2011;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+17/10/2011;24;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+26/10/2011;24;;;;;;;y;;Veterinarska fakulteta
+27/10/2011;35;neg;;;x;x;;;;Veterinarska fakulteta
+27/10/2011;24;neg;;;x;x;;;;Veterinarska fakulteta
+07/11/2011;35;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+10/11/2011;35;;;;;;;y;;Veterinarska fakulteta
+10/11/2011;24;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+23/11/2011;35;x;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+23/11/2011;24;x;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+07/12/2011;35;neg;;;x;x;;;;Veterinarska fakulteta
+07/12/2011;24;neg;;;x;x;;;;Veterinarska fakulteta
+13/12/2011;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+13/12/2011;24;poz;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+10/01/2012;35;;;;;;;;y;Veterinarska fakulteta
+13/01/2012;35;neg;;;x;x;;;;Veterinarska fakulteta
+13/01/2012;24;neg;;;x;x;;;;Veterinarska fakulteta
+15/02/2012;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+17/02/2012;35;neg;;;x;x;;;;Veterinarska fakulteta
+17/02/2012;24;neg;;;x;x;;;;Veterinarska fakulteta
+01/03/2012;24;;;;;;;;y;Veterinarska fakulteta
+16/03/2012;35;neg;;;x;x;;;;Veterinarska fakulteta
+16/03/2012;24;neg;;;x;x;;;;Veterinarska fakulteta
+20/03/2012;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+05/04/2012;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+05/04/2012;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+05/04/2012;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+08/05/2012;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/05/2012;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+11/05/2012;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+24/05/2012;35;neg;;;neg;x;;;;Veterinarska fakulteta
+25/05/2012;24;neg;;;neg;x;;;;Veterinarska fakulteta
+25/05/2012;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+07/06/2012;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+07/06/2012;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+08/06/2012;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+21/06/2012;24;neg;;;neg;x;;;;Veterinarska fakulteta
+26/06/2012;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+28/06/2012;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+05/07/2012;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+06/07/2012;35;neg;;;x;x;;;;Veterinarska fakulteta
+06/07/2012;24;neg;;;x;x;;;;Veterinarska fakulteta
+13/07/2012;35;neg;;;neg;< 3 mg DA/kg;poz;;;Veterinarska fakulteta
+14/07/2012;35;;;;;;;y;;Veterinarska fakulteta
+16/07/2012;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+17/07/2012;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+20/07/2012;24;neg;;;neg;x;;;;Veterinarska fakulteta
+25/07/2012;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+06/08/2012;35;neg;;;x;x;neg (na meji);;;Veterinarska fakulteta
+09/08/2012;24;neg;;;neg;neg;neg;;;Veterinarska fakulteta
+14/08/2012;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+16/08/2012;35;neg;;;neg;< 3 mg DA/kg;neg;;;Veterinarska fakulteta
+23/08/2012;24;x;;;x;neg;;;;Veterinarska fakulteta
+23/08/2012;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+28/08/2012;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+29/08/2012;35;;;;;;;;y;Veterinarska fakulteta
+06/09/2012;35;neg;;;x;x;;;;Veterinarska fakulteta
+11/09/2012;24;neg;;;x;x;;;;Veterinarska fakulteta
+11/09/2012;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+25/09/2012;35;neg;;;x;neg;;;;Veterinarska fakulteta
+25/09/2012;24;neg;;;x;neg;;;;Veterinarska fakulteta
+25/09/2012;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+04/10/2012;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+04/10/2012;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+04/10/2012;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+11/10/2012;35;neg;;;x;neg;;;;Veterinarska fakulteta
+11/10/2012;24;neg;;;x;neg;;;;Veterinarska fakulteta
+11/10/2012;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+18/10/2012;35;neg;;;x;neg;;;;Veterinarska fakulteta
+18/10/2012;24;neg;;;x;neg;;;;Veterinarska fakulteta
+18/10/2012;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+24/10/2012;24;neg;;;x;x;;;;Veterinarska fakulteta
+24/10/2012;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+25/10/2012;35;neg;;;neg;x;;;;Veterinarska fakulteta
+08/11/2012;35;neg;;;neg;neg;;;;Veterinarska fakulteta
+15/11/2012;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+18/11/2012;24;neg;;;x;neg;;;;Veterinarska fakulteta
+22/11/2012;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+29/11/2012;35;neg;;;x;neg;;;;Veterinarska fakulteta
+29/11/2012;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+06/12/2012;35;neg;;;x;neg;;;;Veterinarska fakulteta
+06/12/2012;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+13/12/2012;24;neg;;;x;neg;;;;Veterinarska fakulteta
+19/01/2013;35;neg;;;x;x;;;;Veterinarska fakulteta
+29/01/2013;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+31/01/2013;24;neg;;;x;x;;;;Veterinarska fakulteta
+26/02/2013;35;neg;;;x;x;;;;Veterinarska fakulteta
+26/02/2013;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+28/02/2013;24;neg;;;x;x;;;;Veterinarska fakulteta
+21/03/2013;35;neg;;;x;x;;;;Veterinarska fakulteta
+21/03/2013;24;neg;;;x;x;;;;Veterinarska fakulteta
+04/04/2013;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+10/04/2013;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+10/04/2013;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+11/04/2013;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+18/04/2013;35;neg;;;neg;x;;;;Veterinarska fakulteta
+18/04/2013;24;neg;;;neg;x;;;;Veterinarska fakulteta
+23/04/2013;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+14/05/2013;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+14/05/2013;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+14/05/2013;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+06/06/2013;35;neg;;;neg;x;;;;Veterinarska fakulteta
+06/06/2013;24;neg;;;neg;x;;;;Veterinarska fakulteta
+06/06/2013;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+19/06/2013;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+19/06/2013;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+20/06/2013;24;neg;;;x;neg;;;;Veterinarska fakulteta
+26/06/2013;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+27/06/2013;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+04/07/2013;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+09/07/2013;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+11/07/2013;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+17/07/2013;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+23/07/2013;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+30/07/2013;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+01/08/2013;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+07/08/2013;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+07/08/2013;24;neg;;;neg;x;;;;Veterinarska fakulteta
+14/08/2013;24;neg;;;x;neg;;;;Veterinarska fakulteta
+14/08/2013;0DB2;neg;;;neg;x;;;;Veterinarska fakulteta
+20/08/2013;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+22/08/2013;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+28/08/2013;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+29/08/2013;0DB2;neg;;;neg;neg;;;;Veterinarska fakulteta
+03/09/2013;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+04/09/2013;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+18/09/2013;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+18/09/2013;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+18/09/2013;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+25/09/2013;35;neg;;;x;x;;;;Veterinarska fakulteta
+25/09/2013;24;neg;;;neg;x;;;;Veterinarska fakulteta
+25/09/2013;0DB2;neg;;;x;x;;;;Veterinarska fakulteta
+07/10/2013;35;poz;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+08/10/2013;24;poz;;;neg;neg;;;;Veterinarska fakulteta
+09/10/2013;0DB2;poz;;;x;neg;;;;Veterinarska fakulteta
+17/10/2013;35;neg;;;neg;< 3 mg DA/kg;;;;Veterinarska fakulteta
+17/10/2013;24;neg;;;neg;neg;;;;Veterinarska fakulteta
+22/10/2013;35;;;;;;;y;;Veterinarska fakulteta
+22/10/2013;24;;;;;;;y;;Veterinarska fakulteta
+22/10/2013;0DB2;;;;;;;y;;Veterinarska fakulteta
+23/10/2013;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+23/10/2013;24;neg;;;x;neg;;;;Veterinarska fakulteta
+23/10/2013;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+29/10/2013;35;;;;;;;;y;Veterinarska fakulteta
+29/10/2013;24;;;;;;;;y;Veterinarska fakulteta
+29/10/2013;0DB2;;;;;;;;y;Veterinarska fakulteta
+04/11/2013;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+05/11/2013;24;poz;;;x;neg;;;;Veterinarska fakulteta
+05/11/2013;0DB2;poz;;;x;neg;;;;Veterinarska fakulteta
+13/11/2013;0DB2;;;;;;;y;;Veterinarska fakulteta
+14/11/2013;24;;;;;;;y;;Veterinarska fakulteta
+18/11/2013;35;;;;;;;y;;Veterinarska fakulteta
+19/11/2013;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+19/11/2013;24;neg;;;x;x;;;;Veterinarska fakulteta
+19/11/2013;0DB2;neg;;;x;neg;;;;Veterinarska fakulteta
+27/11/2013;35;neg;;;neg;x;;;;Veterinarska fakulteta
+05/12/2013;35;neg;;;x;< 3 mg DA/kg;;;;Veterinarska fakulteta
+05/12/2013;24;neg;;;x;x;;;;Veterinarska fakulteta
+05/12/2013;0DB2;niso več delali analiz, ker nimajo školjk konzumne velikosti;;;;;;;;Veterinarska fakulteta
+06/12/2013;35;;;;;;;;y;Veterinarska fakulteta
+13/12/2013;24;;;;;;;;y;Veterinarska fakulteta
+13/12/2013;0DB2;;;;;;;;y;Veterinarska fakulteta
+24/12/2013;35;neg;;;;< 3 mg DA/kg;;;;Veterinarska fakulteta
+24/12/2013;24;neg;;;x;neg;;;;Veterinarska fakulteta
+24/12/2013;0DB2;;;;;;;;;Veterinarska fakulteta
+11/03/2014;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+13/03/2014;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+20/03/2014;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+10/04/2014;35;< MD;33;< MD;< MD;< MD;;;;Veterinarska fakulteta
+10/04/2014;24;< MD;48;< MD;< MD;< MD;;;;Veterinarska fakulteta
+10/04/2014;0DB2;< MD;59;< MD;< MD;< MD;;;;Veterinarska fakulteta
+17/04/2014;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+17/04/2014;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+22/04/2014;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+23/04/2014;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/04/2014;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+28/04/2014;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+13/05/2014;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+13/05/2014;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+14/05/2014;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+21/05/2014;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+21/05/2014;24;< MD;< MD;< MD;< MD;x;0.29 mg/kg;;;Veterinarska fakulteta
+21/05/2014;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+29/05/2014;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+29/05/2014;24;< MD;70;< MD;x;x;;;;Veterinarska fakulteta
+29/05/2014;0DB2;< MD;53;< MD;x;x;;;;Veterinarska fakulteta
+05/06/2014;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/06/2014;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/06/2014;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+11/06/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+19/06/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+19/06/2014;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+19/06/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+26/06/2014;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+26/06/2014;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+26/06/2014;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+10/07/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+10/07/2014;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+10/07/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+15/07/2014;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+15/07/2014;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+15/07/2014;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+19/07/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+24/07/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+24/07/2014;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+04/08/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+04/08/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+05/08/2014;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+12/08/2014;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+13/08/2014;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+13/08/2014;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+28/08/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+28/08/2014;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+28/08/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+09/09/2014;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+09/09/2014;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+09/09/2014;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+17/09/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+18/09/2014;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+18/09/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+25/09/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+25/09/2014;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+25/09/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+09/10/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+09/10/2014;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+09/10/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+28/10/2014;24;< MD;74;< MD;< MD;< MD;;;;Veterinarska fakulteta
+28/10/2014;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+29/10/2014;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+06/11/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+06/11/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+10/11/2014;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+20/11/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+20/11/2014;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+20/11/2014;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+26/11/2014;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+26/11/2014;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+26/11/2014;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+20/12/2014;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+07/01/2015;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+07/01/2015;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+25/03/2015;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+25/03/2015;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+25/03/2015;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+08/04/2015;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/04/2015;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/04/2015;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+14/04/2015;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+15/04/2015;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+15/04/2015;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+22/04/2015;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+22/04/2015;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+22/04/2015;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+05/05/2015;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/05/2015;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+06/05/2015;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+13/05/2015;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+13/05/2015;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+13/05/2015;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+19/05/2015;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+19/05/2015;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+19/05/2015;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+23/05/2015;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+09/06/2015;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+09/06/2015;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+09/06/2015;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+16/06/2015;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+16/06/2015;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+17/06/2015;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+23/06/2015;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+23/06/2015;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+07/07/2015;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+07/07/2015;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+07/07/2015;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+16/07/2015;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+16/07/2015;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+16/07/2015;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+28/07/2015;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+28/07/2015;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+29/07/2015;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+10/08/2015;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+10/08/2015;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+11/08/2015;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+19/08/2015;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+19/08/2015;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+19/08/2015;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+27/08/2015;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/08/2015;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+17/09/2015;35;< MD;43;< MD;< MD;< MD;;;;Veterinarska fakulteta
+17/09/2015;24;< MD;65;< MD;< MD;< MD;;;;Veterinarska fakulteta
+17/09/2015;0DB2;< MD;57;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/10/2015;35;< MD;157;< MD;x;< MD;;;;Veterinarska fakulteta
+05/10/2015;24;< MD;259;< MD;x;< MD;;;;Veterinarska fakulteta
+05/10/2015;0DB2;< MD;112;< MD;x;< MD;;;;Veterinarska fakulteta
+12/10/2015;35;< MD;104;< MD;x;< MD;;;;Veterinarska fakulteta
+13/10/2015;24;< MD;88;< MD;x;x;;y;;Veterinarska fakulteta
+13/10/2015;0DB2;< MD;58;< MD;x;< MD;;;;Veterinarska fakulteta
+21/10/2015;35;< MD;178;< MD;x;< MD;;;;Veterinarska fakulteta
+21/10/2015;24;< MD;266;< MD;x;< MD;;;;Veterinarska fakulteta
+30/10/2015;35;;;;;;;y;;Veterinarska fakulteta
+30/10/2015;0DB2;;;;;;;y;;Veterinarska fakulteta
+05/11/2015;35;< MD;101;< MD;x;< MD;;;;Veterinarska fakulteta
+05/11/2015;24;< MD;121;< MD;x;< MD;;;;Veterinarska fakulteta
+05/11/2015;0DB2;< MD;126;< MD;x;< MD;;;;Veterinarska fakulteta
+12/11/2015;35;< MD;61;< MD;x;< MD;;;;Veterinarska fakulteta
+12/11/2015;24;< MD;48;< MD;x;< MD;;;;Veterinarska fakulteta
+12/11/2015;0DB2;< MD;48;< MD;x;< MD;;;;Veterinarska fakulteta
+19/11/2015;35;;;;;;;;y;Veterinarska fakulteta
+19/11/2015;24;;;;;;;;y;Veterinarska fakulteta
+19/11/2015;0DB2;;;;;;;;y;Veterinarska fakulteta
+25/11/2015;35;< MD;301;< MD;< MD;x;;;;Veterinarska fakulteta
+25/11/2015;24;< MD;171;< MD;< MD;x;;;;Veterinarska fakulteta
+25/11/2015;0DB2;< MD;112;< MD;< MD;x;;;;Veterinarska fakulteta
+30/11/2015;35;;;;;;;y;;Veterinarska fakulteta
+30/11/2015;24;;;;;;;y;;Veterinarska fakulteta
+08/12/2015;35;< MD;86;< MD;x;x;;;;Veterinarska fakulteta
+08/12/2015;24;< MD;120;< MD;x;x;;;;Veterinarska fakulteta
+08/12/2015;0DB2;< MD;38;< MD;x;x;;;;Veterinarska fakulteta
+17/12/2015;35;< MD;61;< MD;x;x;;;;Veterinarska fakulteta
+17/12/2015;24;< MD;66;< MD;x;x;;;;Veterinarska fakulteta
+23/12/2015;35;;;;;;;;y;Veterinarska fakulteta
+23/12/2015;24;;;;;;;;y;Veterinarska fakulteta
+30/03/2016;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/03/2016;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/03/2016;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+12/04/2016;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+12/04/2016;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+12/04/2016;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+21/04/2016;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+21/04/2016;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+21/04/2016;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+28/04/2016;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+28/04/2016;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+28/04/2016;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+05/05/2016;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/05/2016;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/05/2016;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+18/05/2016;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+18/05/2016;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+18/05/2016;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+24/05/2016;35;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+24/05/2016;24;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+24/05/2016;0DB2;< MD;< MD;< MD;< MD;x;;;;Veterinarska fakulteta
+01/06/2016;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+01/06/2016;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+01/06/2016;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+15/06/2016;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+15/06/2016;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+15/06/2016;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+28/06/2016;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+28/06/2016;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+28/06/2016;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+07/07/2016;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+07/07/2016;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+12/07/2016;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+20/07/2016;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+20/07/2016;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+20/07/2016;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+27/07/2016;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/07/2016;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+28/07/2016;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+11/08/2016;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+11/08/2016;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+11/08/2016;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+24/08/2016;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/08/2016;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/08/2016;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/08/2016;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/08/2016;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/08/2016;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+06/09/2016;35;< MD;42;< MD;x;x;;;;Veterinarska fakulteta
+06/09/2016;24;< MD;123;75;x;x;;;;Veterinarska fakulteta
+06/09/2016;0DB2;< MD;140;86;x;x;;;;Veterinarska fakulteta
+09/09/2016;0DB2;;;;;;;y;;Veterinarska fakulteta
+13/09/2016;35;< MD;>320, ocena 920;< MD;x;x;;;;Veterinarska fakulteta
+13/09/2016;24;< MD;>320, ocena 1580;< MD;x;x;;;;Veterinarska fakulteta
+13/09/2016;0DB2;< MD;>320, ocena 1880;< MD;x;x;;;;Veterinarska fakulteta
+16/09/2016;24;;;;;;;y;;Veterinarska fakulteta
+06/10/2016;35;< MD;109;< MD;< MD;< MD;;;;Veterinarska fakulteta
+06/10/2016;24;< MD;230;< MD;< MD;< MD;;;;Veterinarska fakulteta
+06/10/2016;0DB2;< MD;>320, ocena 336;< MD;< MD;< MD;;;;Veterinarska fakulteta
+26/10/2016;35;< MD;51;< MD;x;< MD;;;;Veterinarska fakulteta
+26/10/2016;24;< MD;78;< MD;x;< MD;;;;Veterinarska fakulteta
+26/10/2016;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+09/11/2016;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+09/11/2016;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+09/11/2016;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+18/11/2016;24;;;;;;;;y;Veterinarska fakulteta
+18/11/2016;0DB2;;;;;;;;y;Veterinarska fakulteta
+30/11/2016;35;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+30/11/2016;24;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+30/11/2016;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+21/12/2016;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+21/12/2016;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+22/12/2016;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/01/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/01/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/01/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+14/02/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+14/02/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+14/02/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+07/03/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+09/03/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+09/03/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+05/04/2017;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/04/2017;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/04/2017;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+18/04/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+18/04/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+18/04/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+18/05/2017;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+18/05/2017;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+18/05/2017;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+24/05/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+25/05/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+25/05/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/05/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/05/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/05/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+08/06/2017;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/06/2017;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/06/2017;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+22/06/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+22/06/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+22/06/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/06/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/06/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/06/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+04/07/2017;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+04/07/2017;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+04/07/2017;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+13/07/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+13/07/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+13/07/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+26/07/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+26/07/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+26/07/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+01/08/2017;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+01/08/2017;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+01/08/2017;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/08/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+08/08/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+08/08/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/08/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/08/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/08/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+05/09/2017;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/09/2017;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+05/09/2017;0DB2;< MD;72;< MD;< MD;< MD;;;;Veterinarska fakulteta
+18/09/2017;35;< MD;92;< MD;x;x;;;;Veterinarska fakulteta
+18/09/2017;24;< MD;96;< MD;x;x;;;;Veterinarska fakulteta
+18/09/2017;0DB2;< MD;183;< MD;x;x;;y;;Veterinarska fakulteta
+25/09/2017;35;< MD;163;< MD;x;x;;y;;Veterinarska fakulteta
+25/09/2017;24;< MD;219;< MD;x;x;;y;;Veterinarska fakulteta
+03/10/2017;35;< MD;>320, ocena 470;< MD;x;x;;;;Veterinarska fakulteta
+03/10/2017;24;< MD;239;< MD;x;x;;;;Veterinarska fakulteta
+03/10/2017;0DB2;< MD;203;< MD;x;x;;;;Veterinarska fakulteta
+17/10/2017;24;< MD;78;< MD;< MD;< MD;;;;Veterinarska fakulteta
+17/10/2017;0DB2;< MD;63;< MD;< MD;< MD;;;;Veterinarska fakulteta
+18/10/2017;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+25/10/2017;35;< MD;56;< MD;x;x;;;y;Veterinarska fakulteta
+25/10/2017;24;< MD;72;< MD;x;x;;;y;Veterinarska fakulteta
+25/10/2017;0DB2;< MD;90;< MD;x;x;;;y;Veterinarska fakulteta
+02/11/2017;35;< MD;58;< MD;< MD;< MD;;;;Veterinarska fakulteta
+02/11/2017;24;< MD;85;< MD;< MD;< MD;;;;Veterinarska fakulteta
+09/11/2017;0DB2;< MD;61;< MD;< MD;< MD;;;;Veterinarska fakulteta
+23/11/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+23/11/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+23/11/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+05/12/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+05/12/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+05/12/2017;0DB2;< MD;< MD;< MD;x;< MD;;;;Veterinarska fakulteta
+27/12/2017;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/12/2017;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/12/2017;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+25/01/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+25/01/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+25/01/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+06/03/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+06/03/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+06/03/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+29/03/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+29/03/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+11/04/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+11/04/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+11/04/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+25/04/2018;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+25/04/2018;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+25/04/2018;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/05/2018;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/05/2018;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/05/2018;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+15/05/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+15/05/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+22/05/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+31/05/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+31/05/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+31/05/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+07/06/2018;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+07/06/2018;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+07/06/2018;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+19/06/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+19/06/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+19/06/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+28/06/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+28/06/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+28/06/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+10/07/2018;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+10/07/2018;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+10/07/2018;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+19/07/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+19/07/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+19/07/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/07/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/07/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+24/07/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+01/08/2018;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+01/08/2018;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+01/08/2018;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+13/08/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+13/08/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+13/08/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/08/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/08/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/08/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+12/09/2018;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+12/09/2018;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+12/09/2018;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+19/09/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+20/09/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+20/09/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+28/09/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+28/09/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+28/09/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+09/10/2018;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+09/10/2018;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+09/10/2018;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+18/10/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+18/10/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+18/10/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+06/11/2018;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+06/11/2018;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+06/11/2018;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+27/11/2018;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/11/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/11/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+07/12/2018;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+07/12/2018;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+17/05/2019;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+06/06/2019;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+06/06/2019;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+06/06/2019;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+18/06/2019;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+18/06/2019;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+18/06/2019;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/06/2019;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/06/2019;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+27/06/2019;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+03/07/2019;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+03/07/2019;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+03/07/2019;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+10/07/2019;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+10/07/2019;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+10/07/2019;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+23/07/2019;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+23/07/2019;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+23/07/2019;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+31/07/2019;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+31/07/2019;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+31/07/2019;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+22/08/2019;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+22/08/2019;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+22/08/2019;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+29/08/2019;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+29/08/2019;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+29/08/2019;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+10/09/2019;35;< MD;132;< MD;< MD;< MD;;;;Veterinarska fakulteta
+10/09/2019;24;< MD;54;< MD;< MD;< MD;;;;Veterinarska fakulteta
+10/09/2019;0DB2;< MD;>240, ocena 510;< MD;< MD;< MD;;;;Veterinarska fakulteta
+12/09/2019;0DB2;;;;;;;y;;Veterinarska fakulteta
+14/09/2019;35;;;;;;;y;;Veterinarska fakulteta
+14/09/2019;24;;;;;;;y;;Veterinarska fakulteta
+16/09/2019;35;< MD;87;< MD;x;x;;;;Veterinarska fakulteta
+16/09/2019;24;< MD;72;< MD;x;x;;;;Veterinarska fakulteta
+16/09/2019;0DB2;< MD;274;< MD;x;x;;;;Veterinarska fakulteta
+30/09/2019;35;< MD;66;< MD;x;x;;;;Veterinarska fakulteta
+30/09/2019;24;< MD;57;< MD;x;x;;;;Veterinarska fakulteta
+30/09/2019;0DB2;< MD;186;< MD;x;x;;;;Veterinarska fakulteta
+17/10/2019;35;;;;;;;;y;Veterinarska fakulteta
+17/10/2019;24;;;;;;;;y;Veterinarska fakulteta
+17/10/2019;0DB2;;;;;;;;y;Veterinarska fakulteta
+22/10/2019;35;< MD;50;< MD;x;x;;;;Veterinarska fakulteta
+22/10/2019;24;< MD;44;< MD;x;x;;;;Veterinarska fakulteta
+22/10/2019;0DB2;< MD;51;< MD;x;x;;;;Veterinarska fakulteta
+25/10/2019;35;< MD;32;< MD;x;x;;;;Veterinarska fakulteta
+25/10/2019;24;< MD;38;< MD;x;x;;;;Veterinarska fakulteta
+08/11/2019;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/11/2019;24;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+08/11/2019;0DB2;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+26/11/2019;35;< MD;< MD;< MD;< MD;< MD;;;;Veterinarska fakulteta
+26/11/2019;24;< MD;52;< MD;< MD;< MD;;;;Veterinarska fakulteta
+26/11/2019;0DB2;< MD;56;< MD;< MD;< MD;;;;Veterinarska fakulteta
+20/12/2019;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+20/12/2019;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+20/12/2019;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/12/2019;35;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/12/2019;24;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
+30/12/2019;0DB2;< MD;< MD;< MD;x;x;;;;Veterinarska fakulteta
