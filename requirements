@@ -4,3 +4,5 @@ sklearn
 numpy
 matplotlib
 seaborn
+imblearn
+shap
