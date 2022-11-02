@@ -1,0 +1,25 @@
+lipophylic_toxins.
+
+date: continuous.
+sampling station: Debeli_rtic,Seca,Strunjan.
+DSP: continuous.
+DSP_like: continuous.
+Dinophysis caudata: continuous.
+Dinophysis fortii: continuous.
+Phalacroma rotundatum: continuous.
+Dinophysis sacculus: continuous.
+Dinophysis tripos: continuous.
+sun [h]: continuous.
+air temp: continuous.
+wind strength: continuous.
+precipitation: continuous.
+Chl-a: continuous.
+salinity: continuous.
+T: continuous.
+SECCHI: continuous.
+DIN: continuous.
+PO4-P: continuous.
+temp_dif: continuous.
+Soca: continuous.
+month: 1,2,3,4,5,6,7,8,9,10,11,12.
+lipophylic_toxins: poz,neg.
