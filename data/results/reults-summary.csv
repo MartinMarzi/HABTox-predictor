@@ -1,0 +1,41 @@
+﻿Classifier;Precision;Recall;F1-score
+Support Vector Mashines;0.53;0.31;0.39
+Decision Tree;0.29;0.62;0.39
+Random Forest;0.5;0.62;0.55
+Neural Network;0.32;0.58;0.41
+Support Vector Mashines;0.26;0.69;0.38
+Decision Tree;0.29;0.69;0.41
+Random Forest;0.58;0.58;0.58
+Neural Network;0.38;0.62;0.47
+Support Vector Mashines;0.25;0.65;0.36
+Decision Tree;0.26;0.5;0.34
+Random Forest;0.45;0.58;0.51
+Neural Network;0.37;0.5;0.43
+Support Vector Mashines;0.44;0.42;0.43
+Decision Tree;0.23;0.65;0.34
+Random Forest;0.45;0.58;0.51
+Neural Network;0.37;0.62;0.46
+Support Vector Mashines;0.28;0.69;0.4
+Decision Tree;0.39;0.65;0.49
+Random Forest;0.58;0.58;0.58
+Neural Network;0.27;0.65;0.38
+Support Vector Mashines;0.26;0.65;0.37
+Decision Tree;0.28;0.27;0.27
+Random Forest;0.56;0.58;0.57
+Neural Network;0.27;0.58;0.37
+Support Vector Mashines;0.26;0.65;0.37
+Decision Tree;0.38;0.46;0.41
+Random Forest;0.65;0.58;0.61
+Neural Network;0.24;0.38;0.29
+Support Vector Mashines;0.4;0.38;0.39
+Decision Tree;0.34;0.42;0.38
+Random Forest;0.6;0.58;0.59
+Neural Network;0.33;0.65;0.44
+Support Vector Mashines;0.25;0.65;0.37
+Decision Tree;0.34;0.42;0.38
+Random Forest;0.38;0.58;0.46
+Neural Network;0.29;0.27;0.28
+Support Vector Mashines;0.39;0.46;0.42
+Decision Tree;0.28;0.42;0.34
+Random Forest;0.47;0.62;0.53
+Neural Network;0.46;0.46;0.46
