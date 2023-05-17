@@ -1,0 +1,2 @@
+clf__hidden_layer_sizes,clf__solver,over__k_neighbors,over__sampling_strategy,under__sampling_strategy
+"(3,)",lbfgs,1,0.5,0.6
