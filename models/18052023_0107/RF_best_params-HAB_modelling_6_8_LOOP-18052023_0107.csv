@@ -1,0 +1,2 @@
+clf__class_weight,clf__criterion,clf__n_estimators,smt__k_neighbors,smt__sampling_strategy,under__sampling_strategy
+,entropy,300,3,0.3,0.7
