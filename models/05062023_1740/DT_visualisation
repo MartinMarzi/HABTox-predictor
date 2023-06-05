@@ -1,0 +1,140 @@
+
+        digraph G {
+            splines=line;
+            nodesep=0.1;
+            ranksep=.2;
+            rankdir=TD;
+            margin=0.0;
+            
+            node [margin="0.03" penwidth="0.5" width=.1, height=.1];
+            edge [arrowsize=.4 penwidth="0.3"]
+
+            node6 [margin="0" shape=none label=<<font face="Arial" color="#444443" point-size="12">air temp@14.50</font>>]
+	node5 [margin="0" shape=none label=<<font face="Arial" color="#444443" point-size="12">sun [h]@198.00</font>>]
+	node3 [margin="0" shape=none label=<<font face="Arial" color="#444443" point-size="12">wind strength@2.72</font>>]
+	node1 [margin="0" shape=none label=<<font face="Arial" color="#444443" point-size="12">salinity@35.24</font>>]
+	node11 [margin="0" shape=none label=<<font face="Arial" color="#444443" point-size="12">precipitation@47.23</font>>]
+	node10 [margin="0" shape=none label=<<font face="Arial" color="#444443" point-size="12">Soca@3367.08</font>>]
+	node0 [margin="0" shape=none label=<<font face="Arial" color="#444443" point-size="12">Dinophysis fortii@0.69</font>>]
+            node6 -> leaf7 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	node6 -> leaf8 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	
+                    {
+                        rank=same;
+                        leaf7 -> leaf8 [style=invis]
+                    }
+                    
+	node5 -> node6 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	node5 -> leaf9 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	
+                    {
+                        rank=same;
+                        node6 -> leaf9 [style=invis]
+                    }
+                    
+	node3 -> leaf4 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	node3 -> node5 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	
+                    {
+                        rank=same;
+                        leaf4 -> node5 [style=invis]
+                    }
+                    
+	node1 -> leaf2 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	node1 -> node3 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	
+                    {
+                        rank=same;
+                        leaf2 -> node3 [style=invis]
+                    }
+                    
+	node11 -> leaf12 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	node11 -> leaf13 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	
+                    {
+                        rank=same;
+                        leaf12 -> leaf13 [style=invis]
+                    }
+                    
+	node10 -> node11 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	node10 -> leaf14 [penwidth=0.3 fontname="Arial" color="#444443" label=<> fontcolor="#444443"]
+	
+                    {
+                        rank=same;
+                        node11 -> leaf14 [style=invis]
+                    }
+                    
+	node0 -> node1 [penwidth=0.3 fontname="Arial" color="#444443" label=<  &le;> fontcolor="#444443"]
+	node0 -> node10 [penwidth=0.3 fontname="Arial" color="#444443" label=<  &gt;> fontcolor="#444443"]
+	
+                    {
+                        rank=same;
+                        node1 -> node10 [style=invis]
+                    }
+                    
+            leaf2 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+                
+                <tr>
+                        <td><img src="/var/folders/4p/mr19cxrs6_z3dsfws0cjcwfw0000gn/T/leaf2_88698.svg"/></td>
+                </tr>
+                </table>>]
+	leaf4 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+                
+                <tr>
+                        <td><img src="/var/folders/4p/mr19cxrs6_z3dsfws0cjcwfw0000gn/T/leaf4_88698.svg"/></td>
+                </tr>
+                </table>>]
+	leaf7 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+                
+                <tr>
+                        <td><img src="/var/folders/4p/mr19cxrs6_z3dsfws0cjcwfw0000gn/T/leaf7_88698.svg"/></td>
+                </tr>
+                </table>>]
+	leaf8 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+                
+                <tr>
+                        <td><img src="/var/folders/4p/mr19cxrs6_z3dsfws0cjcwfw0000gn/T/leaf8_88698.svg"/></td>
+                </tr>
+                </table>>]
+	leaf9 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+                
+                <tr>
+                        <td><img src="/var/folders/4p/mr19cxrs6_z3dsfws0cjcwfw0000gn/T/leaf9_88698.svg"/></td>
+                </tr>
+                </table>>]
+	leaf12 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+                
+                <tr>
+                        <td><img src="/var/folders/4p/mr19cxrs6_z3dsfws0cjcwfw0000gn/T/leaf12_88698.svg"/></td>
+                </tr>
+                </table>>]
+	leaf13 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+                
+                <tr>
+                        <td><img src="/var/folders/4p/mr19cxrs6_z3dsfws0cjcwfw0000gn/T/leaf13_88698.svg"/></td>
+                </tr>
+                </table>>]
+	leaf14 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+                
+                <tr>
+                        <td><img src="/var/folders/4p/mr19cxrs6_z3dsfws0cjcwfw0000gn/T/leaf14_88698.svg"/></td>
+                </tr>
+                </table>>]
+
+            
+                    subgraph cluster_legend {
+                        style=invis;
+                        legend [penwidth="0" margin="0" shape=box margin="0.03" width=.1, height=.1 label=<
+                        
+                <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td border="0" cellspacing="0" cellpadding="0"><img src="/var/folders/4p/mr19cxrs6_z3dsfws0cjcwfw0000gn/T/legend_88698.svg"/></td>
+                    </tr>
+                </table>
+                
+                        >]
+                    }
+                    
+            
+        }
+            

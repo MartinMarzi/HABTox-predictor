@@ -1,2 +1,0 @@
-clf__class_weight,clf__criterion,clf__min_samples_leaf,smt__k_neighbors,smt__sampling_strategy,under__sampling_strategy
-,entropy,25,5,0.2,0.6
