@@ -58,4 +58,8 @@ Please cite this work in your publications if it helps your research:
 ```
 
 ## Contact
-For questions or support, please contact Martin Marzidovšek at [see paper].
+For questions or support, please contact Martin Marzidovšek at [email protected].
+
+
+## Read the Full Paper
+For more detailed insights and methodologies, read the full paper here: [Explainable machine learning for predicting shellfish toxicity](http://arxiv.org/abs/2405.04372)
