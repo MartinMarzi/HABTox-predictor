@@ -1,5 +1,0 @@
-,Classifier,Precision,Recall,F1-score
-1,Support Vector Machines,0.68,0.38,0.48
-3,Decision Tree,0.38,0.6,0.47
-5,Random Forest,0.78,0.62,0.69
-7,Neural Network,0.47,0.38,0.42

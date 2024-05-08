@@ -1,0 +1,11 @@
+jupyterlab
+pandas
+numpy
+matplotlib
+seaborn
+imbalanced-learn
+shap
+scikit-learn
+dtreeviz
+umap-learn
+IPython

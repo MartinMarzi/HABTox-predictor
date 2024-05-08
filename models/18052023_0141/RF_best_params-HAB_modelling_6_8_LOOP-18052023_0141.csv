@@ -1,2 +1,0 @@
-clf__class_weight,clf__criterion,clf__n_estimators,smt__k_neighbors,smt__sampling_strategy,under__sampling_strategy
-,gini,500,5,0.4,0.7
