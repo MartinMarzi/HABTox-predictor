@@ -1,4 +1,4 @@
-# Predicting Shellfish Toxicity in the Adriatic Sea
+# Explainable machine learning for predicting shellfish toxicity in the Adriatic Sea using long-term monitoring data of Harmful algae blooms
 
 ## Overview
 This project leverages explainable machine learning techniques to predict shellfish toxicity in the Gulf of Trieste, focusing on mussels affected by harmful algal blooms (HABs). Using a comprehensive dataset spanning 28 years, the study examines the occurrence of diarrhetic shellfish poisoning (DSP) events, enhancing the predictability and management of shellfish safety.
